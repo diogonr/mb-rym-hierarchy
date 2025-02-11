@@ -2588,8 +2588,8 @@ Punk
         Emo Revival::genre
         Emo-Pop::genre
         Emocore::genre
+        Mall Screamo::genre
         Midwest Emo::genre
-        Pop Screamo::genre
         Screamo
             Screamo::genre
             Emoviolence::genre
@@ -2647,7 +2647,7 @@ Punk
         Post-Hardcore
             Post-Hardcore::genre
             Emocore::genre
-            Pop Screamo::genre
+            Mall Screamo::genre
             Screamo
                 Screamo::genre
                 Emoviolence::genre
@@ -2720,6 +2720,7 @@ Punk
         Surf Punk::genre
         Vikingarock::genre
     Synth Punk::genre
+    Ultra::genre
 R&B
     R&B::genre
     Acid Jazz::genre
@@ -2804,6 +2805,7 @@ Reggae / Ska / Dancehall
         Ska::genre
         2 Tone::genre
         Jamaican Ska::genre
+        New Tone::genre
         Spouge::genre
         Third Wave Ska
             Third Wave Ska::genre
@@ -3539,6 +3541,7 @@ Regional Music
                 Filipino Rondalla::genre
                 Harana::genre
                 Kundiman::genre
+                OPM::genre
                 Pinoy Folk Rock::genre
             Southeast Asian Classical Music
                 Southeast Asian Classical Music::genre
@@ -5278,6 +5281,7 @@ Regional Music
                 Guitarrada::genre
             MPB
                 MPB::genre
+                Clube da esquina::genre
                 Tropicália::genre
             Northeastern Brazilian Music
                 Northeastern Brazilian Music::genre
@@ -5378,6 +5382,7 @@ Regional Music
                 Choro
                     Choro::genre
                     Samba-choro::genre
+                Clube da esquina::genre
                 Jongo
                     Jongo::genre
                     Ponto de umbanda::genre
@@ -6095,6 +6100,7 @@ Rock
             Dunedin Sound::genre
             Garage Rock Revival::genre
             Hamburger Schule::genre
+            Hoboken Sound::genre
             Indie Surf::genre
             Math Pop::genre
             Midwest Emo::genre
@@ -6111,6 +6117,7 @@ Rock
             Dolewave::genre
             Neo-Acoustic::genre
             Paisley Underground::genre
+        Mall Screamo::genre
         Post-Britpop::genre
         Post-Grunge::genre
         Shimokita-kei::genre
@@ -6138,8 +6145,8 @@ Rock
         Emo Revival::genre
         Emo-Pop::genre
         Emocore::genre
+        Mall Screamo::genre
         Midwest Emo::genre
-        Pop Screamo::genre
         Screamo
             Screamo::genre
             Emoviolence::genre
@@ -6230,7 +6237,7 @@ Rock
         Post-Hardcore
             Post-Hardcore::genre
             Emocore::genre
-            Pop Screamo::genre
+            Mall Screamo::genre
             Screamo
                 Screamo::genre
                 Emoviolence::genre
@@ -6489,6 +6496,7 @@ Rock
         Twist::genre
     Rock andaluz::genre
     Rock andino::genre
+    Rock barrial::genre
     Rock Musical::genre
     Rock Opera::genre
     Rock urbano español::genre
@@ -6713,6 +6721,7 @@ Uncategorised
             Praise & Worship::genre
             Urban Contemporary Gospel::genre
         Chicago School::genre
+        Clube da esquina::genre
         Cocktail Nation::genre
         Dolewave::genre
         Donosti Sound::genre
@@ -6729,6 +6738,7 @@ Uncategorised
         Hamburger Schule::genre
         Hauntology::genre
         Hipco::genre
+        Hoboken Sound::genre
         Holy Terror::genre
         J-core
             J-core::genre
@@ -6759,12 +6769,14 @@ Uncategorised
         Neue Deutsche Welle::genre
         Neue Volksmusik::genre
         New Romantic::genre
+        New Tone::genre
         New Weird America::genre
         New York Hardcore::genre
         No Wave::genre
         NOLA Sludge::genre
         Nova vanguarda paulistana::genre
         Novaya scena::genre
+        Novo Dub::genre
         Nueva canción
             Nueva canción::genre
             Nueva canción española::genre
@@ -6776,6 +6788,7 @@ Uncategorised
         Nueva ola::genre
         NWOBHM::genre
         Onkyo::genre
+        OPM::genre
         Palm Desert Scene::genre
         Pop Kreatif::genre
         Pop Yeh-Yeh::genre
@@ -6785,6 +6798,7 @@ Uncategorised
         RABM::genre
         Red Dirt::genre
         Riot Grrrl::genre
+        Rock barrial::genre
         Rock in Opposition::genre
         Rock radical vasco::genre
         Shibuya-kei
@@ -6802,6 +6816,7 @@ Uncategorised
         Udigrudi::genre
         UK Hip Hop::genre
         UK82::genre
+        Ultra::genre
         Urban Grooves::genre
         V-Pop::genre
         Vanguarda paulista::genre
