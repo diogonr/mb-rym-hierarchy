@@ -1549,7 +1549,9 @@ Folk
             Dagestani Folk Music
                 Dagestani Folk Music::genre
                 Avar Folk Music::genre
-            Georgian Folk Music::genre
+            Georgian Folk Music
+                Georgian Folk Music::genre
+                Batonebi Songs::genre
             Ossetian Folk Music::genre
         Chukchi Folk Music::genre
         East Asian Folk Music
@@ -2014,7 +2016,9 @@ Hip Hop
     Hardcore Hip Hop
         Hardcore Hip Hop::genre
         Britcore::genre
-        Gangsta Rap::genre
+        Gangsta Rap
+            Gangsta Rap::genre
+            Scam Rap::genre
         Horrorcore::genre
         Memphis Rap
             Memphis Rap::genre
@@ -2417,8 +2421,8 @@ Pop
         Bedroom Pop::genre
         C86::genre
         Chamber Pop::genre
+        Donosti Sound::genre
         Neo-Acoustic::genre
-        Sonido Donosti::genre
         Tontipop::genre
         Twee Pop::genre
     Irish Showband::genre
@@ -2474,6 +2478,7 @@ Pop
             Nederbeat::genre
         Big Music::genre
         Britpop::genre
+        Donosti Sound::genre
         Jangle Pop
             Jangle Pop::genre
             C86::genre
@@ -2489,7 +2494,6 @@ Pop
             Soft Rock::genre
             Tropical Rock::genre
             Yacht Rock::genre
-        Sonido Donosti::genre
         Stereo::genre
         Twee Pop::genre
         Vocal Surf::genre
@@ -2530,6 +2534,7 @@ Pop
         Standards::genre
         Tin Pan Alley::genre
     Turkish Pop::genre
+    Urban Grooves::genre
     V-Pop::genre
     Vocal Trance::genre
     Yé-yé::genre
@@ -2618,6 +2623,7 @@ Punk
                 Thrashcore::genre
                 Powerviolence::genre
             UK82::genre
+        Holy Terror::genre
         Metalcore
             Metalcore::genre
             Deathcore
@@ -2636,6 +2642,7 @@ Punk
                 Emoviolence::genre
             Swancore::genre
         Sass::genre
+        Straight Edge::genre
     Mod Revival::genre
     No Wave::genre
     Pigfuck::genre
@@ -3003,6 +3010,7 @@ Regional Music
             Township Bubblegum::genre
             Township Jive::genre
             Tsonga Disco::genre
+            Urban Grooves::genre
         West African Music
             West African Music::genre
             Afro-Funk::genre
@@ -3633,7 +3641,9 @@ Regional Music
                     Dagestani Folk Music
                         Dagestani Folk Music::genre
                         Avar Folk Music::genre
-                    Georgian Folk Music::genre
+                    Georgian Folk Music
+                        Georgian Folk Music::genre
+                        Batonebi Songs::genre
                     Ossetian Folk Music::genre
                 Karachay-Balkarian Music::genre
                 Rabiz::genre
@@ -4001,7 +4011,9 @@ Regional Music
                 Dagestani Folk Music
                     Dagestani Folk Music::genre
                     Avar Folk Music::genre
-                Georgian Folk Music::genre
+                Georgian Folk Music
+                    Georgian Folk Music::genre
+                    Batonebi Songs::genre
                 Ossetian Folk Music::genre
             Karachay-Balkarian Music::genre
             Rabiz::genre
@@ -5349,6 +5361,7 @@ Regional Music
                     Ponto de umbanda::genre
                 Marchinha::genre
                 Maxixe::genre
+                Nova vanguarda paulistana::genre
                 Pagode
                     Pagode::genre
                     Pagodão
@@ -5597,7 +5610,9 @@ Regional Music
             Dagestani Folk Music
                 Dagestani Folk Music::genre
                 Avar Folk Music::genre
-            Georgian Folk Music::genre
+            Georgian Folk Music
+                Georgian Folk Music::genre
+                Batonebi Songs::genre
             Ossetian Folk Music::genre
         Chukchi Folk Music::genre
         East Asian Folk Music
@@ -6179,6 +6194,7 @@ Rock
                 Thrashcore::genre
                 Powerviolence::genre
             UK82::genre
+        Holy Terror::genre
         Metalcore
             Metalcore::genre
             Deathcore
@@ -6197,6 +6213,7 @@ Rock
                 Emoviolence::genre
             Swancore::genre
         Sass::genre
+        Straight Edge::genre
     Heartland Rock::genre
     Industrial Rock::genre
     Jam Band
@@ -6330,6 +6347,7 @@ Rock
             Nederbeat::genre
         Big Music::genre
         Britpop::genre
+        Donosti Sound::genre
         Jangle Pop
             Jangle Pop::genre
             C86::genre
@@ -6345,7 +6363,6 @@ Rock
             Soft Rock::genre
             Tropical Rock::genre
             Yacht Rock::genre
-        Sonido Donosti::genre
         Stereo::genre
         Twee Pop::genre
         Vocal Surf::genre
@@ -6552,7 +6569,9 @@ Uncategorised
         Children's Music
             Children's Music::genre
             Fairy Tales::genre
-            Lullabies::genre
+            Lullabies
+                Lullabies::genre
+                Batonebi Songs::genre
             Nursery Rhymes::genre
         Choral
             Choral::genre
@@ -6657,14 +6676,18 @@ Uncategorised
     Scenes & Movements
         Scenes & Movements::genre
         Bérite Club::genre
+        Britpop::genre
         Campus Folk::genre
         Dolewave::genre
+        Donosti Sound::genre
         Doujin Music::genre
         Dunedin Sound::genre
         East Coast Hip Hop::genre
+        Filk::genre
         French Hip Hop::genre
         Futurism::genre
         Hipco::genre
+        Holy Terror::genre
         Japanese Hardcore::genre
         Japanese Hip Hop::genre
         Kawaii Metal::genre
@@ -6673,15 +6696,21 @@ Uncategorised
         Mod
             Mod::genre
             Mod Revival::genre
+        Neue Deutsche Welle::genre
         Neue Volksmusik::genre
         New York Hardcore::genre
         No Wave::genre
+        Nova vanguarda paulistana::genre
+        Novaya scena::genre
         Nueva ola::genre
         NWOBHM::genre
         Onkyo::genre
         Palm Desert Scene::genre
+        Pop Yeh-Yeh::genre
+        Queercore::genre
         RABM::genre
         Red Dirt::genre
+        Riot Grrrl::genre
         Rock in Opposition::genre
         Shibuya-kei
             Shibuya-kei::genre
@@ -6689,9 +6718,13 @@ Uncategorised
             Picopop::genre
         Shimokita-kei::genre
         Southern Hip Hop::genre
+        Straight Edge::genre
+        Swing Revival::genre
         Tropicália::genre
+        Tropicanibalismo::genre
         UK Hip Hop::genre
         UK82::genre
+        Urban Grooves::genre
         Vanguarda paulista::genre
         Visual kei::genre
         West Coast Hip Hop::genre
