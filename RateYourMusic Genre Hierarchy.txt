@@ -285,6 +285,7 @@ Classical Music
         Romanticism
             Romanticism::genre
             Grand opéra::genre
+            Młoda Polska::genre
             Romantische Oper::genre
         Serenade::genre
         Sonata::genre
@@ -2648,7 +2649,9 @@ Punk
                 Emoviolence::genre
             Swancore::genre
         Sass::genre
-        Straight Edge::genre
+        Straight Edge
+            Straight Edge::genre
+            Hardline::genre
     Mod Revival::genre
     No Wave::genre
     Pigfuck::genre
@@ -2703,6 +2706,7 @@ Punk
         Psychobilly::genre
         Queercore::genre
         Riot Grrrl::genre
+        Rock radical vasco::genre
         Ska Punk
             Ska Punk::genre
             Skacore
@@ -2775,6 +2779,7 @@ Reggae / Ska / Dancehall
         Ragga::genre
         Shatta::genre
         Zess::genre
+        Zimdancehall::genre
     Reggae
         Reggae::genre
         Deejay::genre
@@ -3017,6 +3022,7 @@ Regional Music
             Township Jive::genre
             Tsonga Disco::genre
             Urban Grooves::genre
+            Zimdancehall::genre
         West African Music
             West African Music::genre
             Afro-Funk::genre
@@ -3833,6 +3839,7 @@ Regional Music
                 Ragga::genre
                 Shatta::genre
                 Zess::genre
+                Zimdancehall::genre
             Jamaican Ska::genre
             Mento::genre
             Nyahbinghi::genre
@@ -4480,6 +4487,7 @@ Regional Music
             Mazur::genre
             Mazurka::genre
             Miejski folk::genre
+            Młoda Polska::genre
             Poezja śpiewana::genre
             Polish Folk Music
                 Polish Folk Music::genre
@@ -6221,7 +6229,9 @@ Rock
                 Emoviolence::genre
             Swancore::genre
         Sass::genre
-        Straight Edge::genre
+        Straight Edge
+            Straight Edge::genre
+            Hardline::genre
     Heartland Rock::genre
     Industrial Rock::genre
     Jam Band
@@ -6449,6 +6459,7 @@ Rock
         Psychobilly::genre
         Queercore::genre
         Riot Grrrl::genre
+        Rock radical vasco::genre
         Ska Punk
             Ska Punk::genre
             Skacore
@@ -6702,6 +6713,8 @@ Uncategorised
         French Hip Hop::genre
         Futurism::genre
         Greenwich Village Scene::genre
+        Group Sounds::genre
+        Hamburger Schule::genre
         Hipco::genre
         Holy Terror::genre
         J-Pop
@@ -6714,50 +6727,71 @@ Uncategorised
         Japanese Idol::genre
         Kawaii Metal::genre
         Louisville Sound::genre
+        Madchester::genre
         Manguebeat::genre
         Manila Sound::genre
         Merseybeat::genre
+        Młoda Polska::genre
         Mod
             Mod::genre
             Mod Revival::genre
         Nederbeat::genre
         Neue Deutsche Welle::genre
         Neue Volksmusik::genre
+        New Romantic::genre
+        New Weird America::genre
         New York Hardcore::genre
         No Wave::genre
         NOLA Sludge::genre
         Nova vanguarda paulistana::genre
         Novaya scena::genre
+        Nueva canción
+            Nueva canción::genre
+            Nueva canción española::genre
+            Nueva canción latinoamericana
+                Nueva canción latinoamericana::genre
+                Nueva canción chilena::genre
+                Nueva trova::genre
+                Nuevo Cancionero::genre
         Nueva ola::genre
         NWOBHM::genre
         Onkyo::genre
         Palm Desert Scene::genre
         Pop Kreatif::genre
         Pop Yeh-Yeh::genre
+        Psichedelia occulta italiana::genre
         Queercore::genre
         RABM::genre
         Red Dirt::genre
         Riot Grrrl::genre
         Rock in Opposition::genre
+        Rock radical vasco::genre
         Shibuya-kei
             Shibuya-kei::genre
             Akishibu-kei::genre
             Picopop::genre
         Shimokita-kei::genre
         Southern Hip Hop::genre
-        Straight Edge::genre
+        Straight Edge
+            Straight Edge::genre
+            Hardline::genre
         Swing Revival::genre
         Tropicália::genre
         Tropicanibalismo::genre
+        Udigrudi::genre
         UK Hip Hop::genre
         UK82::genre
         Urban Grooves::genre
+        V-Pop::genre
         Vanguarda paulista::genre
         Visual kei::genre
         Vixa::genre
+        Vocaloid Scene::genre
         West Coast Hip Hop::genre
         Women's Music Movement::genre
+        Yass::genre
         Yugoslav New Wave::genre
+        Zimdancehall::genre
     Sound Effects
         Sound Effects::genre
         Battle Record::genre
