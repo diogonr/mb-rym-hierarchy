@@ -689,6 +689,7 @@ Dance
                 Speed House::genre
             UK Jackin'::genre
             Vinahouse::genre
+            Vixa::genre
         Hyper Techno::genre
         Hypertechno::genre
         Jungle Terror::genre
@@ -1160,6 +1161,7 @@ Electronic
                 Speed House::genre
             UK Jackin'::genre
             Vinahouse::genre
+            Vixa::genre
         Hyper Techno::genre
         Hypertechno::genre
         Jungle Terror::genre
@@ -1403,6 +1405,7 @@ Folk
         Folk Pop
             Folk Pop::genre
             Stomp and Holler::genre
+        Greenwich Village Scene::genre
         Indie Folk
             Indie Folk::genre
             Stomp and Holler::genre
@@ -2296,6 +2299,7 @@ Metal
     Sludge Metal
         Sludge Metal::genre
         Atmospheric Sludge Metal::genre
+        NOLA Sludge::genre
     Southern Metal::genre
     Stenchcore::genre
     Stoner Metal::genre
@@ -2414,6 +2418,7 @@ Pop
     French Pop::genre
     Girl Group::genre
     Glitch Pop::genre
+    Hmong Pop::genre
     Hyperpop::genre
     Indian Pop::genre
     Indie Pop
@@ -2462,6 +2467,7 @@ Pop
     Persian Pop::genre
     Pop Batak::genre
     Pop Ghazal::genre
+    Pop Kreatif::genre
     Pop Minang
         Pop Minang::genre
         Talempong goyang::genre
@@ -3439,7 +3445,7 @@ Regional Music
             Hill Tribe Music
                 Hill Tribe Music::genre
                 Hmong Folk Music::genre
-            Hmong Pop::genre
+                Hmong Pop::genre
             Indonesian Music
                 Indonesian Music::genre
                 Balinese Music
@@ -4556,6 +4562,7 @@ Regional Music
                     Cumbia villera::genre
                 Guaracha santiagueña::genre
                 Nuevo Cancionero::genre
+                RKT::genre
             Avanzada::genre
             Bachata::genre
             Bailecito::genre
@@ -5174,6 +5181,7 @@ Regional Music
                 Cumbia villera::genre
             Guaracha santiagueña::genre
             Nuevo Cancionero::genre
+            RKT::genre
         Avanzada::genre
         Bailecito::genre
         Baithak gana::genre
@@ -5459,7 +5467,6 @@ Regional Music
                 Tango::genre
                 Finnish Tango::genre
                 Tango Nuevo::genre
-        RKT::genre
         Rock andino::genre
         Salsa choke::genre
         Saya::genre
@@ -6100,6 +6107,7 @@ Rock
         Art Punk::genre
         Egg Punk::genre
     Art Rock::genre
+    Aussie Pub Rock::genre
     Bard Rock::genre
     Blues Rock
         Blues Rock::genre
@@ -6312,6 +6320,7 @@ Rock
         Sludge Metal
             Sludge Metal::genre
             Atmospheric Sludge Metal::genre
+            NOLA Sludge::genre
         Southern Metal::genre
         Stenchcore::genre
         Stoner Metal::genre
@@ -6374,7 +6383,9 @@ Rock
             Gothic Rock::genre
             Deathrock::genre
         Post-Punk Revival::genre
-    Post-Rock::genre
+    Post-Rock
+        Post-Rock::genre
+        Chicago School::genre
     Progressive Rock
         Progressive Rock::genre
         Avant-Prog
@@ -6529,12 +6540,6 @@ Uncategorised
     ASMR::genre
     Beatboxing::genre
     Bugle Call::genre
-    CCM
-        CCM::genre
-        Christian Hip Hop::genre
-        Christian Rock::genre
-        Praise & Worship::genre
-        Urban Contemporary Gospel::genre
     Comedy
         Comedy::genre
         Break-In::genre
@@ -6675,9 +6680,19 @@ Uncategorised
     Parlour Music::genre
     Scenes & Movements
         Scenes & Movements::genre
+        Aussie Pub Rock::genre
         Bérite Club::genre
         Britpop::genre
         Campus Folk::genre
+        Canterbury Scene::genre
+        CCM
+            CCM::genre
+            Christian Hip Hop::genre
+            Christian Rock::genre
+            Praise & Worship::genre
+            Urban Contemporary Gospel::genre
+        Chicago School::genre
+        Cocktail Nation::genre
         Dolewave::genre
         Donosti Sound::genre
         Doujin Music::genre
@@ -6686,26 +6701,38 @@ Uncategorised
         Filk::genre
         French Hip Hop::genre
         Futurism::genre
+        Greenwich Village Scene::genre
         Hipco::genre
         Holy Terror::genre
+        J-Pop
+            J-Pop::genre
+            Akishibu-kei::genre
+            Denpa::genre
+            Yakousei::genre
         Japanese Hardcore::genre
         Japanese Hip Hop::genre
+        Japanese Idol::genre
         Kawaii Metal::genre
+        Louisville Sound::genre
         Manguebeat::genre
         Manila Sound::genre
+        Merseybeat::genre
         Mod
             Mod::genre
             Mod Revival::genre
+        Nederbeat::genre
         Neue Deutsche Welle::genre
         Neue Volksmusik::genre
         New York Hardcore::genre
         No Wave::genre
+        NOLA Sludge::genre
         Nova vanguarda paulistana::genre
         Novaya scena::genre
         Nueva ola::genre
         NWOBHM::genre
         Onkyo::genre
         Palm Desert Scene::genre
+        Pop Kreatif::genre
         Pop Yeh-Yeh::genre
         Queercore::genre
         RABM::genre
@@ -6727,7 +6754,9 @@ Uncategorised
         Urban Grooves::genre
         Vanguarda paulista::genre
         Visual kei::genre
+        Vixa::genre
         West Coast Hip Hop::genre
+        Women's Music Movement::genre
         Yugoslav New Wave::genre
     Sound Effects
         Sound Effects::genre
