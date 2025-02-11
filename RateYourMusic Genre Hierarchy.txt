@@ -42,6 +42,7 @@ Classical Music
         Chinese Classical Music
             Chinese Classical Music::genre
             Baisha xiyue::genre
+            Chinese Literati Music::genre
             Dongjing::genre
             Yayue::genre
         Japanese Classical Music
@@ -2228,6 +2229,7 @@ Metal
         Atmospheric Black Metal
             Atmospheric Black Metal::genre
             Blackgaze::genre
+            Cascadian Black Metal::genre
         Black 'n' Roll::genre
         Black Noise::genre
         Dissonant Black Metal::genre
@@ -2510,6 +2512,7 @@ Pop
     Pop Sunda::genre
     Progressive Pop::genre
     Psychedelic Pop::genre
+    Q-Pop::genre
     Rabiz::genre
     Rigsar::genre
     Rumba catalana::genre
@@ -2582,6 +2585,7 @@ Punk
     Digital Hardcore::genre
     Emo
         Emo::genre
+        Emo Revival::genre
         Emo-Pop::genre
         Emocore::genre
         Midwest Emo::genre
@@ -3197,6 +3201,7 @@ Regional Music
                 Chinese Classical Music
                     Chinese Classical Music::genre
                     Baisha xiyue::genre
+                    Chinese Literati Music::genre
                     Dongjing::genre
                     Yayue::genre
                 Chinese Folk Music
@@ -3226,6 +3231,7 @@ Regional Music
                 Chinese Classical Music
                     Chinese Classical Music::genre
                     Baisha xiyue::genre
+                    Chinese Literati Music::genre
                     Dongjing::genre
                     Yayue::genre
                 Japanese Classical Music
@@ -6129,6 +6135,7 @@ Rock
     Deutschrock::genre
     Emo
         Emo::genre
+        Emo Revival::genre
         Emo-Pop::genre
         Emocore::genre
         Midwest Emo::genre
@@ -6258,6 +6265,7 @@ Rock
             Atmospheric Black Metal
                 Atmospheric Black Metal::genre
                 Blackgaze::genre
+                Cascadian Black Metal::genre
             Black 'n' Roll::genre
             Black Noise::genre
             Dissonant Black Metal::genre
@@ -6691,11 +6699,13 @@ Uncategorised
     Parlour Music::genre
     Scenes & Movements
         Scenes & Movements::genre
+        Alté::genre
         Aussie Pub Rock::genre
         Bérite Club::genre
         Britpop::genre
         Campus Folk::genre
         Canterbury Scene::genre
+        Cascadian Black Metal::genre
         CCM
             CCM::genre
             Christian Hip Hop::genre
@@ -6709,14 +6719,20 @@ Uncategorised
         Doujin Music::genre
         Dunedin Sound::genre
         East Coast Hip Hop::genre
+        Emo Revival::genre
         Filk::genre
         French Hip Hop::genre
         Futurism::genre
+        Grebo::genre
         Greenwich Village Scene::genre
         Group Sounds::genre
         Hamburger Schule::genre
+        Hauntology::genre
         Hipco::genre
         Holy Terror::genre
+        J-core
+            J-core::genre
+            Future Core::genre
         J-Pop
             J-Pop::genre
             Akishibu-kei::genre
@@ -6724,7 +6740,10 @@ Uncategorised
             Yakousei::genre
         Japanese Hardcore::genre
         Japanese Hip Hop::genre
-        Japanese Idol::genre
+        Japanese Idol
+            Japanese Idol::genre
+            Alternative Idol::genre
+        Jovem Guarda::genre
         Kawaii Metal::genre
         Louisville Sound::genre
         Madchester::genre
@@ -6736,6 +6755,7 @@ Uncategorised
             Mod::genre
             Mod Revival::genre
         Nederbeat::genre
+        Nerdcore Techno::genre
         Neue Deutsche Welle::genre
         Neue Volksmusik::genre
         New Romantic::genre
@@ -6760,6 +6780,7 @@ Uncategorised
         Pop Kreatif::genre
         Pop Yeh-Yeh::genre
         Psichedelia occulta italiana::genre
+        Q-Pop::genre
         Queercore::genre
         RABM::genre
         Red Dirt::genre
@@ -6788,6 +6809,7 @@ Uncategorised
         Vixa::genre
         Vocaloid Scene::genre
         West Coast Hip Hop::genre
+        Windmill Scene::genre
         Women's Music Movement::genre
         Yass::genre
         Yugoslav New Wave::genre
