@@ -743,7 +743,9 @@ Dance
             Dream Trance::genre
             Euro-Trance
                 Euro-Trance::genre
-                Hands Up::genre
+                Hands Up
+                    Hands Up::genre
+                    Buchiage Trance::genre
             Hard Trance::genre
             Ibiza Trance::genre
             NRG::genre
@@ -1215,7 +1217,9 @@ Electronic
             Dream Trance::genre
             Euro-Trance
                 Euro-Trance::genre
-                Hands Up::genre
+                Hands Up
+                    Hands Up::genre
+                    Buchiage Trance::genre
             Hard Trance::genre
             Ibiza Trance::genre
             NRG::genre
@@ -1680,6 +1684,7 @@ Folk
                     Pìobaireachd::genre
                     Pipe Band::genre
                     Scots Song::genre
+                    Scottish Country Dance Music::genre
                     Shetland & Orkney Folk Music::genre
                 Trás-os-Montes Folk Music::genre
                 Welsh Folk Music::genre
@@ -2666,6 +2671,7 @@ Punk
         Gothic Rock
             Gothic Rock::genre
             Deathrock::genre
+        Little Band Scene::genre
         Post-Punk Revival::genre
     Proto-Punk::genre
     Punk Blues::genre
@@ -3540,6 +3546,7 @@ Regional Music
                 Balitaw::genre
                 Filipino Rondalla::genre
                 Harana::genre
+                Igorot Music::genre
                 Kundiman::genre
                 OPM::genre
                 Pinoy Folk Rock::genre
@@ -3737,6 +3744,7 @@ Regional Music
             Batak Music::genre
             Gondang::genre
             Pop Batak::genre
+        Igorot Music::genre
         Indigenous Taiwanese Music::genre
         Malagasy Music
             Malagasy Music::genre
@@ -4021,6 +4029,7 @@ Regional Music
                 Pìobaireachd::genre
                 Pipe Band::genre
                 Scots Song::genre
+                Scottish Country Dance Music::genre
                 Shetland & Orkney Folk Music::genre
             Welsh Folk Music::genre
         Caucasian Music
@@ -4146,6 +4155,7 @@ Regional Music
                     Pìobaireachd::genre
                     Pipe Band::genre
                     Scots Song::genre
+                    Scottish Country Dance Music::genre
                     Shetland & Orkney Folk Music::genre
                 Trás-os-Montes Folk Music::genre
                 Welsh Folk Music::genre
@@ -5762,6 +5772,7 @@ Regional Music
                     Pìobaireachd::genre
                     Pipe Band::genre
                     Scots Song::genre
+                    Scottish Country Dance Music::genre
                     Shetland & Orkney Folk Music::genre
                 Trás-os-Montes Folk Music::genre
                 Welsh Folk Music::genre
@@ -6360,6 +6371,7 @@ Rock
     Mod
         Mod::genre
         Mod Revival::genre
+    New Primitivism::genre
     New Wave
         New Wave::genre
         Neue Deutsche Welle::genre
@@ -6407,6 +6419,7 @@ Rock
         Gothic Rock
             Gothic Rock::genre
             Deathrock::genre
+        Little Band Scene::genre
         Post-Punk Revival::genre
     Post-Rock
         Post-Rock::genre
@@ -6711,6 +6724,12 @@ Uncategorised
         Aussie Pub Rock::genre
         Bérite Club::genre
         Britpop::genre
+        C-Pop
+            C-Pop::genre
+            Cantopop::genre
+            Gufeng::genre
+            Mandopop::genre
+            Zhongguo feng::genre
         Campus Folk::genre
         Canterbury Scene::genre
         Cascadian Black Metal::genre
@@ -6755,6 +6774,7 @@ Uncategorised
             Alternative Idol::genre
         Jovem Guarda::genre
         Kawaii Metal::genre
+        Little Band Scene::genre
         Louisville Sound::genre
         Madchester::genre
         Manguebeat::genre
@@ -6768,6 +6788,7 @@ Uncategorised
         Nerdcore Techno::genre
         Neue Deutsche Welle::genre
         Neue Volksmusik::genre
+        New Primitivism::genre
         New Romantic::genre
         New Tone::genre
         New Weird America::genre
