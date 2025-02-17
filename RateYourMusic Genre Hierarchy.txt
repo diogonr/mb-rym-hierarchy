@@ -389,6 +389,7 @@ Dance
         Balani Show::genre
         Balearic Beat::genre
         Bérite Club::genre
+        Bloghouse::genre
         Breakbeat
             Breakbeat::genre
             Acid Breaks::genre
@@ -863,6 +864,7 @@ Electronic
         Balani Show::genre
         Balearic Beat::genre
         Bérite Club::genre
+        Bloghouse::genre
         Breakbeat
             Breakbeat::genre
             Acid Breaks::genre
@@ -1321,6 +1323,7 @@ Electronic
         Synthwave::genre
         Chillsynth::genre
         Darksynth::genre
+        Sovietwave::genre
     Tecnobrega
         Tecnobrega::genre
         Brega funk
@@ -1571,7 +1574,7 @@ Folk
                 Chaozhou xianshi::genre
                 Han Folk Music::genre
                 Jiangnan sizhu::genre
-                Shan’ge::genre
+                Shan'ge::genre
             Indigenous Taiwanese Music::genre
             Japanese Folk Music
                 Japanese Folk Music::genre
@@ -1983,7 +1986,7 @@ Folk
             Field Hollers::genre
             Òrain luaidh::genre
             Sea Shanty::genre
-            Shan’ge::genre
+            Shan'ge::genre
         Yodeling
             Yodeling::genre
             Country Yodeling::genre
@@ -2084,6 +2087,7 @@ Hip Hop
             Chicago Drill
                 Chicago Drill::genre
                 Bop::genre
+            Free Car Music::genre
             Jersey Drill::genre
             New York Drill
                 New York Drill::genre
@@ -2251,7 +2255,9 @@ Metal
             Slam Death Metal::genre
         Death 'n' Roll::genre
         Deathgrind::genre
-        Melodic Death Metal::genre
+        Melodic Death Metal
+            Melodic Death Metal::genre
+            Gothenburg Sound::genre
         Technical Death Metal
             Technical Death Metal::genre
             Dissonant Death Metal::genre
@@ -2540,6 +2546,7 @@ Pop
         Futurepop::genre
         Pon-chak disco::genre
         Techno kayō::genre
+    T-Pop::genre
     Teen Pop::genre
     Traditional Pop
         Traditional Pop::genre
@@ -3217,7 +3224,7 @@ Regional Music
                     Chaozhou xianshi::genre
                     Han Folk Music::genre
                     Jiangnan sizhu::genre
-                    Shan’ge::genre
+                    Shan'ge::genre
                 Chinese Opera
                     Chinese Opera::genre
                     Cantonese Opera::genre
@@ -3276,7 +3283,7 @@ Regional Music
                     Chaozhou xianshi::genre
                     Han Folk Music::genre
                     Jiangnan sizhu::genre
-                    Shan’ge::genre
+                    Shan'ge::genre
                 Indigenous Taiwanese Music::genre
                 Japanese Folk Music
                     Japanese Folk Music::genre
@@ -4567,6 +4574,7 @@ Regional Music
             Country Gospel::genre
             Bluegrass Gospel::genre
         Jubilee::genre
+        Praise Break::genre
         Sacred Steel::genre
         Southern Gospel::genre
         Traditional Black Gospel::genre
@@ -5659,7 +5667,7 @@ Regional Music
                 Chaozhou xianshi::genre
                 Han Folk Music::genre
                 Jiangnan sizhu::genre
-                Shan’ge::genre
+                Shan'ge::genre
             Indigenous Taiwanese Music::genre
             Japanese Folk Music
                 Japanese Folk Music::genre
@@ -6071,7 +6079,7 @@ Regional Music
             Field Hollers::genre
             Òrain luaidh::genre
             Sea Shanty::genre
-            Shan’ge::genre
+            Shan'ge::genre
         Yodeling
             Yodeling::genre
             Country Yodeling::genre
@@ -6300,7 +6308,9 @@ Rock
                 Slam Death Metal::genre
             Death 'n' Roll::genre
             Deathgrind::genre
-            Melodic Death Metal::genre
+            Melodic Death Metal
+                Melodic Death Metal::genre
+                Gothenburg Sound::genre
             Technical Death Metal
                 Technical Death Metal::genre
                 Dissonant Death Metal::genre
@@ -6513,6 +6523,7 @@ Rock
     Rock Musical::genre
     Rock Opera::genre
     Rock urbano español::genre
+    Rock urbano mexicano::genre
     Roots Rock
         Roots Rock::genre
         Swamp Rock::genre
@@ -6723,7 +6734,10 @@ Uncategorised
         Alté::genre
         Aussie Pub Rock::genre
         Bérite Club::genre
+        Bloghouse::genre
         Britpop::genre
+        Brno Alternative Scene::genre
+        Brony Music::genre
         C-Pop
             C-Pop::genre
             Cantopop::genre
@@ -6737,7 +6751,9 @@ Uncategorised
             CCM::genre
             Christian Hip Hop::genre
             Christian Rock::genre
-            Praise & Worship::genre
+            Praise & Worship
+                Praise & Worship::genre
+                Praise Break::genre
             Urban Contemporary Gospel::genre
         Chicago School::genre
         Clube da esquina::genre
@@ -6751,6 +6767,7 @@ Uncategorised
         Filk::genre
         French Hip Hop::genre
         Futurism::genre
+        Gothenburg Sound::genre
         Grebo::genre
         Greenwich Village Scene::genre
         Group Sounds::genre
@@ -6822,16 +6839,20 @@ Uncategorised
         Rock barrial::genre
         Rock in Opposition::genre
         Rock radical vasco::genre
+        Rock urbano mexicano::genre
+        Russemusikk::genre
         Shibuya-kei
             Shibuya-kei::genre
             Akishibu-kei::genre
             Picopop::genre
         Shimokita-kei::genre
         Southern Hip Hop::genre
+        Sovietwave::genre
         Straight Edge
             Straight Edge::genre
             Hardline::genre
         Swing Revival::genre
+        T-Pop::genre
         Tropicália::genre
         Tropicanibalismo::genre
         Udigrudi::genre
