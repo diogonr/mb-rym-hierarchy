@@ -2390,6 +2390,7 @@ Pop
         C-Pop::genre
         Cantopop::genre
         Gufeng::genre
+        Hokkien Pop::genre
         Mandopop::genre
         Zhongguo feng::genre
     Cambodian Pop
@@ -6272,6 +6273,7 @@ Rock
         Jamgrass::genre
         Livetronica::genre
     Jazz-Rock::genre
+    Jersey Shore Sound::genre
     Latin Rock::genre
     Manguebeat::genre
     Math Rock
@@ -6735,6 +6737,7 @@ Uncategorised
         Aussie Pub Rock::genre
         Bérite Club::genre
         Bloghouse::genre
+        Bristol Sound::genre
         Britpop::genre
         Brno Alternative Scene::genre
         Brony Music::genre
@@ -6742,6 +6745,7 @@ Uncategorised
             C-Pop::genre
             Cantopop::genre
             Gufeng::genre
+            Hokkien Pop::genre
             Mandopop::genre
             Zhongguo feng::genre
         Campus Folk::genre
@@ -6789,6 +6793,7 @@ Uncategorised
         Japanese Idol
             Japanese Idol::genre
             Alternative Idol::genre
+        Jersey Shore Sound::genre
         Jovem Guarda::genre
         Kawaii Metal::genre
         Little Band Scene::genre
