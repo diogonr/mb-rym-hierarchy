@@ -372,6 +372,7 @@ Dance
                 Spacesynth
                     Spacesynth::genre
                     Doskpop::genre
+            Red Disco::genre
             Space Disco::genre
         Euro-Disco::genre
         Latin Disco::genre
@@ -477,6 +478,7 @@ Dance
                 Spacesynth
                     Spacesynth::genre
                     Doskpop::genre
+            Red Disco::genre
             Space Disco::genre
         Electroclash::genre
         Eurobeat::genre
@@ -946,6 +948,7 @@ Electronic
                 Spacesynth
                     Spacesynth::genre
                     Doskpop::genre
+            Red Disco::genre
             Space Disco::genre
         Electroclash::genre
         Eurobeat::genre
@@ -3159,6 +3162,7 @@ Regional Music
                     Chinese Opera::genre
                     Cantonese Opera::genre
                     Henan Opera::genre
+                    Kunqu Opera::genre
                     Peking Opera
                         Peking Opera::genre
                         Korean Revolutionary Opera::genre
@@ -6620,6 +6624,7 @@ Uncategorised
                 Praise & Worship::genre
                 Praise Break::genre
             Urban Contemporary Gospel::genre
+        Český underground::genre
         Chicago School::genre
         Clube da esquina::genre
         Cocktail Nation::genre
@@ -6638,6 +6643,7 @@ Uncategorised
         Group Sounds::genre
         Hamburger Schule::genre
         Hauntology::genre
+        Hip-hopolo::genre
         Hipco::genre
         Hoboken Sound::genre
         Holy Terror::genre
@@ -6666,6 +6672,7 @@ Uncategorised
         Manguebeat::genre
         Manila Sound::genre
         Merseybeat::genre
+        Minneapolis Sound::genre
         Młoda Polska::genre
         Mod
             Mod::genre
@@ -6674,6 +6681,7 @@ Uncategorised
         Nerdcore Techno::genre
         Neue Deutsche Welle::genre
         Neue Volksmusik::genre
+        New Music::genre
         New Orleans Blues::genre
         New Primitivism::genre
         New Romantic::genre
@@ -6711,12 +6719,17 @@ Uncategorised
         Rock in Opposition::genre
         Rock radical vasco::genre
         Rock urbano mexicano::genre
+        Romanticism
+            Romanticism::genre
+            Grand opéra::genre
+            Romantische Oper::genre
         Russemusikk::genre
         Shibuya-kei
             Shibuya-kei::genre
             Akishibu-kei::genre
             Picopop::genre
         Shimokita-kei::genre
+        SoundClown::genre
         Southern Hip Hop::genre
         Sovietwave::genre
         Straight Edge
@@ -6749,4 +6762,6 @@ Uncategorised
         Battle Record::genre
         Binaural Beats::genre
         Broadband Noise::genre
-    YTPMV::genre
+    YTPMV
+        YTPMV::genre
+        otoMAD::genre
