@@ -30,7 +30,6 @@ Blues
         Swamp Blues::genre
     Fife and Drum Blues::genre
     Jump Blues::genre
-    New Orleans Blues::genre
     Piano Blues::genre
     Soul Blues::genre
     Vaudeville Blues::genre
@@ -217,7 +216,6 @@ Classical Music
         Modern Classical
             Modern Classical::genre
             Expressionism::genre
-            Futurism::genre
             Impressionism::genre
             Indeterminacy::genre
             Microtonal Classical::genre
@@ -286,7 +284,6 @@ Classical Music
         Romanticism
             Romanticism::genre
             Grand opéra::genre
-            Młoda Polska::genre
             Romantische Oper::genre
         Serenade::genre
         Sonata::genre
@@ -305,9 +302,7 @@ Country
     Alt-Country
         Alt-Country::genre
         Gothic Country::genre
-    Americana
-        Americana::genre
-        Red Dirt::genre
+    Americana::genre
     Bluegrass
         Bluegrass::genre
         Progressive Bluegrass
@@ -337,7 +332,6 @@ Country
     Progressive Country
         Progressive Country::genre
         Outlaw Country::genre
-    Red Dirt::genre
     Traditional Country
         Traditional Country::genre
         Close Harmony::genre
@@ -388,8 +382,6 @@ Dance
         Artcore::genre
         Balani Show::genre
         Balearic Beat::genre
-        Bérite Club::genre
-        Bloghouse::genre
         Breakbeat
             Breakbeat::genre
             Acid Breaks::genre
@@ -588,9 +580,6 @@ Dance
                 Hardtek::genre
                 Raggatek::genre
             Industrial Hardcore::genre
-            J-core
-                J-core::genre
-                Future Core::genre
             Speedcore
                 Speedcore::genre
                 Extratone::genre
@@ -692,7 +681,6 @@ Dance
                 Speed House::genre
             UK Jackin'::genre
             Vinahouse::genre
-            Vixa::genre
         Hyper Techno::genre
         Hypertechno::genre
         Jungle Terror::genre
@@ -863,8 +851,6 @@ Electronic
         Artcore::genre
         Balani Show::genre
         Balearic Beat::genre
-        Bérite Club::genre
-        Bloghouse::genre
         Breakbeat
             Breakbeat::genre
             Acid Breaks::genre
@@ -1063,9 +1049,6 @@ Electronic
                 Hardtek::genre
                 Raggatek::genre
             Industrial Hardcore::genre
-            J-core
-                J-core::genre
-                Future Core::genre
             Speedcore
                 Speedcore::genre
                 Extratone::genre
@@ -1167,7 +1150,6 @@ Electronic
                 Speed House::genre
             UK Jackin'::genre
             Vinahouse::genre
-            Vixa::genre
         Hyper Techno::genre
         Hypertechno::genre
         Jungle Terror::genre
@@ -1363,7 +1345,6 @@ Experimental
     Free Improvisation
         Free Improvisation::genre
         EAI::genre
-    Futurism::genre
     Glitch::genre
     Graphical Sound::genre
     Indeterminacy::genre
@@ -1414,7 +1395,6 @@ Folk
         Folk Pop
             Folk Pop::genre
             Stomp and Holler::genre
-        Greenwich Village Scene::genre
         Indie Folk
             Indie Folk::genre
             Stomp and Holler::genre
@@ -1849,6 +1829,7 @@ Folk
             Walloon Folk Music::genre
             White Voice::genre
             Yiddish Folksong::genre
+        Football Chant::genre
         Hazara Folk Music::genre
         Hispanic American Folk Music
             Hispanic American Folk Music::genre
@@ -2002,7 +1983,6 @@ Hip Hop
     Bounce::genre
     Chipmunk Soul::genre
     Chopped and Screwed::genre
-    Christian Hip Hop::genre
     Cloud Rap::genre
     Comedy Rap
         Comedy Rap::genre
@@ -2016,12 +1996,10 @@ Hip Hop
     Dirty South::genre
     Disco Rap::genre
     Drumless::genre
-    East Coast Hip Hop::genre
     Emo Rap::genre
     Experimental Hip Hop
         Experimental Hip Hop::genre
         Industrial Hip Hop::genre
-    French Hip Hop::genre
     G-Funk::genre
     Genge
         Genge::genre
@@ -2047,7 +2025,6 @@ Hip Hop
     Instrumental Hip Hop
         Instrumental Hip Hop::genre
         Rare Phonk::genre
-    Japanese Hip Hop::genre
     Jazz Rap::genre
     Jerk::genre
     Jersey Club Rap
@@ -2078,7 +2055,6 @@ Hip Hop
         Futuristic Swag::genre
     Ratchet Music::genre
     Snap::genre
-    Southern Hip Hop::genre
     Trap
         Trap::genre
         Detroit Trap::genre
@@ -2113,8 +2089,6 @@ Hip Hop
         Tread::genre
     Trap shaabi::genre
     Turntablism::genre
-    UK Hip Hop::genre
-    West Coast Hip Hop::genre
 Industrial & Noise
     Industrial & Noise::genre
     Industrial
@@ -2175,7 +2149,6 @@ Jazz
         Free Jazz
             Free Jazz::genre
             European Free Jazz::genre
-        Yass::genre
     Bebop::genre
     Big Band
         Big Band::genre
@@ -2238,14 +2211,12 @@ Metal
         Atmospheric Black Metal
             Atmospheric Black Metal::genre
             Blackgaze::genre
-            Cascadian Black Metal::genre
         Black 'n' Roll::genre
         Black Noise::genre
         Dissonant Black Metal::genre
         DSBM::genre
         Melodic Black Metal::genre
         Pagan Black Metal::genre
-        RABM::genre
         Symphonic Black Metal::genre
         War Metal::genre
     Death Metal
@@ -2255,9 +2226,7 @@ Metal
             Slam Death Metal::genre
         Death 'n' Roll::genre
         Deathgrind::genre
-        Melodic Death Metal
-            Melodic Death Metal::genre
-            Gothenburg Sound::genre
+        Melodic Death Metal::genre
         Technical Death Metal
             Technical Death Metal::genre
             Dissonant Death Metal::genre
@@ -2288,7 +2257,6 @@ Metal
     Groove Metal::genre
     Heavy Metal
         Heavy Metal::genre
-        NWOBHM::genre
         Speed Metal::genre
         US Power Metal::genre
     Industrial Metal
@@ -2313,7 +2281,6 @@ Metal
     Sludge Metal
         Sludge Metal::genre
         Atmospheric Sludge Metal::genre
-        NOLA Sludge::genre
     Southern Metal::genre
     Stenchcore::genre
     Stoner Metal::genre
@@ -2441,7 +2408,6 @@ Pop
         Bedroom Pop::genre
         C86::genre
         Chamber Pop::genre
-        Donosti Sound::genre
         Neo-Acoustic::genre
         Tontipop::genre
         Twee Pop::genre
@@ -2449,15 +2415,7 @@ Pop
     Italo Pop
         Italo Pop::genre
         Canzone neomelodica::genre
-    J-Pop
-        J-Pop::genre
-        Akishibu-kei::genre
-        Denpa::genre
-        Yakousei::genre
     Jazz Pop::genre
-    K-Pop
-        K-Pop::genre
-        Semi-Trot::genre
     Kayōkyoku
         Kayōkyoku::genre
         Idol kayō::genre
@@ -2476,13 +2434,11 @@ Pop
         Nederpop::genre
         Palingsound::genre
     New Music::genre
-    New Romantic::genre
     OPM::genre
     Orthodox Pop::genre
     Persian Pop::genre
     Pop Batak::genre
     Pop Ghazal::genre
-    Pop Kreatif::genre
     Pop Minang
         Pop Minang::genre
         Talempong goyang::genre
@@ -2499,14 +2455,12 @@ Pop
             Nederbeat::genre
         Big Music::genre
         Britpop::genre
-        Donosti Sound::genre
         Jangle Pop
             Jangle Pop::genre
             C86::genre
             Dolewave::genre
             Neo-Acoustic::genre
             Paisley Underground::genre
-        Manila Sound::genre
         Piano Rock::genre
         Pop Yeh-Yeh::genre
         Post-Britpop::genre
@@ -2524,7 +2478,6 @@ Pop
     Pop Sunda::genre
     Progressive Pop::genre
     Psychedelic Pop::genre
-    Q-Pop::genre
     Rabiz::genre
     Rigsar::genre
     Rumba catalana::genre
@@ -2557,8 +2510,6 @@ Pop
         Standards::genre
         Tin Pan Alley::genre
     Turkish Pop::genre
-    Urban Grooves::genre
-    V-Pop::genre
     Vocal Trance::genre
     Yé-yé::genre
 Psychedelia
@@ -2568,7 +2519,6 @@ Psychedelia
         Baggy::genre
         Hypnagogic Pop::genre
         Paisley Underground::genre
-        Psichedelia occulta italiana::genre
         Space Rock Revival::genre
     Psychedelic Folk
         Psychedelic Folk::genre
@@ -2598,7 +2548,6 @@ Punk
     Digital Hardcore::genre
     Emo
         Emo::genre
-        Emo Revival::genre
         Emo-Pop::genre
         Emocore::genre
         Mall Screamo::genre
@@ -2635,10 +2584,8 @@ Punk
                 Neocrust::genre
                 Stenchcore::genre
             D-Beat::genre
-            Japanese Hardcore::genre
             Melodic Hardcore::genre
             Mincecore::genre
-            New York Hardcore::genre
             Skacore
                 Skacore::genre
                 Crack Rock Steady::genre
@@ -2646,8 +2593,6 @@ Punk
             Thrashcore
                 Thrashcore::genre
                 Powerviolence::genre
-            UK82::genre
-        Holy Terror::genre
         Metalcore
             Metalcore::genre
             Deathcore
@@ -2666,11 +2611,7 @@ Punk
                 Emoviolence::genre
             Swancore::genre
         Sass::genre
-        Straight Edge
-            Straight Edge::genre
-            Hardline::genre
     Mod Revival::genre
-    No Wave::genre
     Pigfuck::genre
     Post-Punk
         Post-Punk::genre
@@ -2679,7 +2620,7 @@ Punk
         Gothic Rock
             Gothic Rock::genre
             Deathrock::genre
-        Little Band Scene::genre
+            Positive Punk::genre
         Post-Punk Revival::genre
     Proto-Punk::genre
     Punk Blues::genre
@@ -2702,10 +2643,8 @@ Punk
                 Neocrust::genre
                 Stenchcore::genre
             D-Beat::genre
-            Japanese Hardcore::genre
             Melodic Hardcore::genre
             Mincecore::genre
-            New York Hardcore::genre
             Skacore
                 Skacore::genre
                 Crack Rock Steady::genre
@@ -2713,7 +2652,6 @@ Punk
             Thrashcore
                 Thrashcore::genre
                 Powerviolence::genre
-            UK82::genre
         Horror Punk::genre
         Könsrock::genre
         Oi!::genre
@@ -2721,10 +2659,8 @@ Punk
             Pop Punk::genre
             Easycore::genre
             Seishun Punk::genre
+        Positive Punk::genre
         Psychobilly::genre
-        Queercore::genre
-        Riot Grrrl::genre
-        Rock radical vasco::genre
         Ska Punk
             Ska Punk::genre
             Skacore
@@ -2734,7 +2670,6 @@ Punk
         Surf Punk::genre
         Vikingarock::genre
     Synth Punk::genre
-    Ultra::genre
 R&B
     R&B::genre
     Acid Jazz::genre
@@ -2798,14 +2733,11 @@ Reggae / Ska / Dancehall
         Ragga::genre
         Shatta::genre
         Zess::genre
-        Zimdancehall::genre
     Reggae
         Reggae::genre
         Deejay::genre
         Digital Dancehall::genre
-        Dub
-            Dub::genre
-            Novo Dub::genre
+        Dub::genre
         Lovers Rock::genre
         Pacific Reggae::genre
         Pop Reggae::genre
@@ -2819,7 +2751,6 @@ Reggae / Ska / Dancehall
         Ska::genre
         2 Tone::genre
         Jamaican Ska::genre
-        New Tone::genre
         Spouge::genre
         Third Wave Ska
             Third Wave Ska::genre
@@ -3041,8 +2972,6 @@ Regional Music
             Township Bubblegum::genre
             Township Jive::genre
             Tsonga Disco::genre
-            Urban Grooves::genre
-            Zimdancehall::genre
         West African Music
             West African Music::genre
             Afro-Funk::genre
@@ -3864,7 +3793,6 @@ Regional Music
                 Ragga::genre
                 Shatta::genre
                 Zess::genre
-                Zimdancehall::genre
             Jamaican Ska::genre
             Mento::genre
             Nyahbinghi::genre
@@ -3872,9 +3800,7 @@ Regional Music
                 Reggae::genre
                 Deejay::genre
                 Digital Dancehall::genre
-                Dub
-                    Dub::genre
-                    Novo Dub::genre
+                Dub::genre
                 Lovers Rock::genre
                 Pacific Reggae::genre
                 Pop Reggae::genre
@@ -4337,7 +4263,6 @@ Regional Music
             Ländler::genre
             Lied::genre
             Liedermacher::genre
-            Neue Volksmusik::genre
             Romantische Oper::genre
             Volkstümliche Musik::genre
             Zeitoper::genre
@@ -4514,7 +4439,6 @@ Regional Music
             Mazur::genre
             Mazurka::genre
             Miejski folk::genre
-            Młoda Polska::genre
             Poezja śpiewana::genre
             Polish Folk Music
                 Polish Folk Music::genre
@@ -4857,14 +4781,6 @@ Regional Music
         Murga
             Murga::genre
             Murga uruguaya::genre
-        Nueva canción
-            Nueva canción::genre
-            Nueva canción española::genre
-            Nueva canción latinoamericana
-                Nueva canción latinoamericana::genre
-                Nueva canción chilena::genre
-                Nueva trova::genre
-                Nuevo Cancionero::genre
         Spanish Music
             Spanish Music::genre
             Bolero español::genre
@@ -5048,9 +4964,7 @@ Regional Music
             Alt-Country
                 Alt-Country::genre
                 Gothic Country::genre
-            Americana
-                Americana::genre
-                Red Dirt::genre
+            Americana::genre
             Bluegrass
                 Bluegrass::genre
                 Progressive Bluegrass
@@ -5080,7 +4994,6 @@ Regional Music
             Progressive Country
                 Progressive Country::genre
                 Outlaw Country::genre
-            Red Dirt::genre
             Traditional Country
                 Traditional Country::genre
                 Close Harmony::genre
@@ -5119,7 +5032,6 @@ Regional Music
             Cajun Music
                 Cajun Music::genre
                 Traditional Cajun Music::genre
-            New Orleans Blues::genre
             New Orleans Brass Band::genre
             New Orleans R&B::genre
             Swamp Blues::genre
@@ -5300,7 +5212,6 @@ Regional Music
                 Guitarrada::genre
             MPB
                 MPB::genre
-                Clube da esquina::genre
                 Tropicália::genre
             Northeastern Brazilian Music
                 Northeastern Brazilian Music::genre
@@ -5401,13 +5312,11 @@ Regional Music
                 Choro
                     Choro::genre
                     Samba-choro::genre
-                Clube da esquina::genre
                 Jongo
                     Jongo::genre
                     Ponto de umbanda::genre
                 Marchinha::genre
                 Maxixe::genre
-                Nova vanguarda paulistana::genre
                 Pagode
                     Pagode::genre
                     Pagodão
@@ -5420,7 +5329,6 @@ Regional Music
                 Samba de terreiro::genre
                 Samba-enredo::genre
                 Tamborzão::genre
-                Vanguarda paulista::genre
             Southern Brazilian Music
                 Southern Brazilian Music::genre
                 Bandinha::genre
@@ -5943,6 +5851,7 @@ Regional Music
             Walloon Folk Music::genre
             White Voice::genre
             Yiddish Folksong::genre
+        Football Chant::genre
         Hazara Folk Music::genre
         Hispanic American Folk Music
             Hispanic American Folk Music::genre
@@ -6119,8 +6028,6 @@ Rock
             Dolewave::genre
             Dunedin Sound::genre
             Garage Rock Revival::genre
-            Hamburger Schule::genre
-            Hoboken Sound::genre
             Indie Surf::genre
             Math Pop::genre
             Midwest Emo::genre
@@ -6148,21 +6055,18 @@ Rock
         Art Punk::genre
         Egg Punk::genre
     Art Rock::genre
-    Aussie Pub Rock::genre
     Bard Rock::genre
     Blues Rock
         Blues Rock::genre
         Boogie Rock::genre
     British Rhythm & Blues::genre
     Candombe beat::genre
-    Christian Rock::genre
     Comedy Rock::genre
     Country Rock::genre
     Cowpunk::genre
     Deutschrock::genre
     Emo
         Emo::genre
-        Emo Revival::genre
         Emo-Pop::genre
         Emocore::genre
         Mall Screamo::genre
@@ -6175,7 +6079,6 @@ Rock
         Avant-Prog
             Avant-Prog::genre
             Brutal Prog::genre
-            Rock in Opposition::genre
             Zeuhl::genre
         Krautrock::genre
     Folk Rock
@@ -6232,10 +6135,8 @@ Rock
                 Neocrust::genre
                 Stenchcore::genre
             D-Beat::genre
-            Japanese Hardcore::genre
             Melodic Hardcore::genre
             Mincecore::genre
-            New York Hardcore::genre
             Skacore
                 Skacore::genre
                 Crack Rock Steady::genre
@@ -6243,8 +6144,6 @@ Rock
             Thrashcore
                 Thrashcore::genre
                 Powerviolence::genre
-            UK82::genre
-        Holy Terror::genre
         Metalcore
             Metalcore::genre
             Deathcore
@@ -6263,9 +6162,6 @@ Rock
                 Emoviolence::genre
             Swancore::genre
         Sass::genre
-        Straight Edge
-            Straight Edge::genre
-            Hardline::genre
     Heartland Rock::genre
     Industrial Rock::genre
     Jam Band
@@ -6293,14 +6189,12 @@ Rock
             Atmospheric Black Metal
                 Atmospheric Black Metal::genre
                 Blackgaze::genre
-                Cascadian Black Metal::genre
             Black 'n' Roll::genre
             Black Noise::genre
             Dissonant Black Metal::genre
             DSBM::genre
             Melodic Black Metal::genre
             Pagan Black Metal::genre
-            RABM::genre
             Symphonic Black Metal::genre
             War Metal::genre
         Death Metal
@@ -6310,9 +6204,7 @@ Rock
                 Slam Death Metal::genre
             Death 'n' Roll::genre
             Deathgrind::genre
-            Melodic Death Metal
-                Melodic Death Metal::genre
-                Gothenburg Sound::genre
+            Melodic Death Metal::genre
             Technical Death Metal
                 Technical Death Metal::genre
                 Dissonant Death Metal::genre
@@ -6343,7 +6235,6 @@ Rock
         Groove Metal::genre
         Heavy Metal
             Heavy Metal::genre
-            NWOBHM::genre
             Speed Metal::genre
             US Power Metal::genre
         Industrial Metal
@@ -6368,7 +6259,6 @@ Rock
         Sludge Metal
             Sludge Metal::genre
             Atmospheric Sludge Metal::genre
-            NOLA Sludge::genre
         Southern Metal::genre
         Stenchcore::genre
         Stoner Metal::genre
@@ -6380,20 +6270,11 @@ Rock
         Trance Metal::genre
         Viking Metal::genre
     Miejski folk::genre
-    Mod
-        Mod::genre
-        Mod Revival::genre
-    New Primitivism::genre
-    New Wave
-        New Wave::genre
-        Neue Deutsche Welle::genre
-        New Romantic::genre
-        Yugoslav New Wave::genre
+    New Wave::genre
     Noise Rock
         Noise Rock::genre
         Pigfuck::genre
         Shitgaze::genre
-    Palm Desert Scene::genre
     Pop Rock
         Pop Rock::genre
         Beat
@@ -6405,14 +6286,12 @@ Rock
             Nederbeat::genre
         Big Music::genre
         Britpop::genre
-        Donosti Sound::genre
         Jangle Pop
             Jangle Pop::genre
             C86::genre
             Dolewave::genre
             Neo-Acoustic::genre
             Paisley Underground::genre
-        Manila Sound::genre
         Piano Rock::genre
         Pop Yeh-Yeh::genre
         Post-Britpop::genre
@@ -6431,17 +6310,14 @@ Rock
         Gothic Rock
             Gothic Rock::genre
             Deathrock::genre
-        Little Band Scene::genre
+            Positive Punk::genre
         Post-Punk Revival::genre
-    Post-Rock
-        Post-Rock::genre
-        Chicago School::genre
+    Post-Rock::genre
     Progressive Rock
         Progressive Rock::genre
         Avant-Prog
             Avant-Prog::genre
             Brutal Prog::genre
-            Rock in Opposition::genre
             Zeuhl::genre
         Canterbury Scene::genre
         Neo-Prog::genre
@@ -6477,10 +6353,8 @@ Rock
                 Neocrust::genre
                 Stenchcore::genre
             D-Beat::genre
-            Japanese Hardcore::genre
             Melodic Hardcore::genre
             Mincecore::genre
-            New York Hardcore::genre
             Skacore
                 Skacore::genre
                 Crack Rock Steady::genre
@@ -6488,7 +6362,6 @@ Rock
             Thrashcore
                 Thrashcore::genre
                 Powerviolence::genre
-            UK82::genre
         Horror Punk::genre
         Könsrock::genre
         Oi!::genre
@@ -6496,10 +6369,8 @@ Rock
             Pop Punk::genre
             Easycore::genre
             Seishun Punk::genre
+        Positive Punk::genre
         Psychobilly::genre
-        Queercore::genre
-        Riot Grrrl::genre
-        Rock radical vasco::genre
         Ska Punk
             Ska Punk::genre
             Skacore
@@ -6521,11 +6392,9 @@ Rock
         Twist::genre
     Rock andaluz::genre
     Rock andino::genre
-    Rock barrial::genre
     Rock Musical::genre
     Rock Opera::genre
     Rock urbano español::genre
-    Rock urbano mexicano::genre
     Roots Rock
         Roots Rock::genre
         Swamp Rock::genre
@@ -6558,14 +6427,6 @@ Singer-Songwriter
     Música de intervenção::genre
     Nova cançó::genre
     Nòva cançon::genre
-    Nueva canción
-        Nueva canción::genre
-        Nueva canción española::genre
-        Nueva canción latinoamericana
-            Nueva canción latinoamericana::genre
-            Nueva canción chilena::genre
-            Nueva trova::genre
-            Nuevo Cancionero::genre
     Poezja śpiewana::genre
 Spoken Word
     Spoken Word::genre
@@ -6795,6 +6656,9 @@ Uncategorised
             Alternative Idol::genre
         Jersey Shore Sound::genre
         Jovem Guarda::genre
+        K-Pop
+            K-Pop::genre
+            Semi-Trot::genre
         Kawaii Metal::genre
         Little Band Scene::genre
         Louisville Sound::genre
@@ -6810,6 +6674,7 @@ Uncategorised
         Nerdcore Techno::genre
         Neue Deutsche Welle::genre
         Neue Volksmusik::genre
+        New Orleans Blues::genre
         New Primitivism::genre
         New Romantic::genre
         New Tone::genre
@@ -6835,6 +6700,7 @@ Uncategorised
         Palm Desert Scene::genre
         Pop Kreatif::genre
         Pop Yeh-Yeh::genre
+        Positive Punk::genre
         Psichedelia occulta italiana::genre
         Q-Pop::genre
         Queercore::genre
@@ -6867,7 +6733,9 @@ Uncategorised
         Urban Grooves::genre
         V-Pop::genre
         Vanguarda paulista::genre
-        Visual kei::genre
+        Visual kei
+            Visual kei::genre
+            Nagoya kei::genre
         Vixa::genre
         Vocaloid Scene::genre
         West Coast Hip Hop::genre
