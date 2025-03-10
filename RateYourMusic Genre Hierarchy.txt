@@ -1926,7 +1926,6 @@ Folk
             Southeast Asian Folk Music::genre
             Balitaw::genre
             Bamar Folk Music::genre
-            Filipino Rondalla::genre
             Gondang::genre
             Harana::genre
             Hmong Folk Music::genre
@@ -1934,6 +1933,7 @@ Folk
             Kuda kepang::genre
             Lao Folk Music::genre
             Malay Folk Music::genre
+            Philippine Rondalla::genre
             Rapai dabõih::genre
             Tarawangsa::genre
             Thai Folk Music
@@ -3485,11 +3485,11 @@ Regional Music
             Philippine Music
                 Philippine Music::genre
                 Balitaw::genre
-                Filipino Rondalla::genre
                 Harana::genre
                 Igorot Music::genre
                 Kundiman::genre
                 OPM::genre
+                Philippine Rondalla::genre
                 Pinoy Folk Rock::genre
             Southeast Asian Classical Music
                 Southeast Asian Classical Music::genre
@@ -3532,7 +3532,6 @@ Regional Music
                 Southeast Asian Folk Music::genre
                 Balitaw::genre
                 Bamar Folk Music::genre
-                Filipino Rondalla::genre
                 Gondang::genre
                 Harana::genre
                 Hmong Folk Music::genre
@@ -3540,6 +3539,7 @@ Regional Music
                 Kuda kepang::genre
                 Lao Folk Music::genre
                 Malay Folk Music::genre
+                Philippine Rondalla::genre
                 Rapai dabõih::genre
                 Tarawangsa::genre
                 Thai Folk Music
@@ -3773,6 +3773,7 @@ Regional Music
                 Rabòday::genre
                 Rara::genre
                 Rasin::genre
+                Twoubadou::genre
             Kréyol djaz::genre
             Tumbélé::genre
             Zouk
@@ -4785,6 +4786,7 @@ Regional Music
         Murga
             Murga::genre
             Murga uruguaya::genre
+        Philippine Rondalla::genre
         Spanish Music
             Spanish Music::genre
             Bolero español::genre
@@ -5949,7 +5951,6 @@ Regional Music
             Southeast Asian Folk Music::genre
             Balitaw::genre
             Bamar Folk Music::genre
-            Filipino Rondalla::genre
             Gondang::genre
             Harana::genre
             Hmong Folk Music::genre
@@ -5957,6 +5958,7 @@ Regional Music
             Kuda kepang::genre
             Lao Folk Music::genre
             Malay Folk Music::genre
+            Philippine Rondalla::genre
             Rapai dabõih::genre
             Tarawangsa::genre
             Thai Folk Music
@@ -6323,7 +6325,9 @@ Rock
             Avant-Prog::genre
             Brutal Prog::genre
             Zeuhl::genre
-        Canterbury Scene::genre
+        Canterbury Scene
+            Canterbury Scene::genre
+            Neo-Canterbury::genre
         Neo-Prog::genre
         Symphonic Prog::genre
     Proto-Punk::genre
@@ -6614,7 +6618,9 @@ Uncategorised
             Mandopop::genre
             Zhongguo feng::genre
         Campus Folk::genre
-        Canterbury Scene::genre
+        Canterbury Scene
+            Canterbury Scene::genre
+            Neo-Canterbury::genre
         Cascadian Black Metal::genre
         CCM
             CCM::genre
@@ -6630,7 +6636,9 @@ Uncategorised
         Cocktail Nation::genre
         Dolewave::genre
         Donosti Sound::genre
-        Doujin Music::genre
+        Doujin Music
+            Doujin Music::genre
+            Touhou Music::genre
         Dunedin Sound::genre
         East Coast Hip Hop::genre
         Emo Revival::genre
@@ -6677,6 +6685,7 @@ Uncategorised
         Mod
             Mod::genre
             Mod Revival::genre
+        Movida madrileña::genre
         Nederbeat::genre
         Nerdcore Techno::genre
         Neue Deutsche Welle::genre
@@ -6718,6 +6727,7 @@ Uncategorised
         Rock barrial::genre
         Rock in Opposition::genre
         Rock radical vasco::genre
+        Rock subterráneo::genre
         Rock urbano mexicano::genre
         Romanticism
             Romanticism::genre
