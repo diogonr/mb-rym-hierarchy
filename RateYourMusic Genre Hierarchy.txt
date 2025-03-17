@@ -6276,6 +6276,7 @@ Rock
         Trance Metal::genre
         Viking Metal::genre
     Miejski folk::genre
+    Mod Revival::genre
     New Wave::genre
     Noise Rock
         Noise Rock::genre
@@ -6603,6 +6604,7 @@ Uncategorised
     Scenes & Movements
         Scenes & Movements::genre
         Alté::genre
+        Asian Underground::genre
         Aussie Pub Rock::genre
         Bérite Club::genre
         Bloghouse::genre
@@ -6674,6 +6676,7 @@ Uncategorised
             K-Pop::genre
             Semi-Trot::genre
         Kawaii Metal::genre
+        LA Beat Scene::genre
         Little Band Scene::genre
         Louisville Sound::genre
         Madchester::genre
@@ -6734,6 +6737,7 @@ Uncategorised
             Grand opéra::genre
             Romantische Oper::genre
         Russemusikk::genre
+        Seapunk::genre
         Shibuya-kei
             Shibuya-kei::genre
             Akishibu-kei::genre
