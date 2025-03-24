@@ -481,7 +481,9 @@ Dance
             Red Disco::genre
             Space Disco::genre
         Electroclash::genre
-        Eurobeat::genre
+        Eurobeat
+            Eurobeat::genre
+            J-Euro::genre
         Eurodance
             Eurodance::genre
             Bubblegum Dance::genre
@@ -951,7 +953,9 @@ Electronic
             Red Disco::genre
             Space Disco::genre
         Electroclash::genre
-        Eurobeat::genre
+        Eurobeat
+            Eurobeat::genre
+            J-Euro::genre
         Eurodance
             Eurodance::genre
             Bubblegum Dance::genre
@@ -2619,12 +2623,16 @@ Punk
     Post-Punk
         Post-Punk::genre
         Coldwave::genre
-        Dance-Punk::genre
+        Dance-Punk
+            Dance-Punk::genre
+            Dance-Punk Revival::genre
         Gothic Rock
             Gothic Rock::genre
             Deathrock::genre
             Positive Punk::genre
-        Post-Punk Revival::genre
+        Post-Punk Revival
+            Post-Punk Revival::genre
+            Dance-Punk Revival::genre
     Proto-Punk::genre
     Punk Blues::genre
     Punk Rock
@@ -2715,7 +2723,6 @@ R&B
         Deep Soul::genre
         Latin Soul::genre
         Neo-Soul::genre
-        Northern Soul::genre
         Philly Soul::genre
         Pop Soul
             Pop Soul::genre
@@ -3748,6 +3755,7 @@ Regional Music
             Son cubano
                 Son cubano::genre
                 Bolero son::genre
+                Son montuno::genre
             Songo::genre
             Timba::genre
             Trova
@@ -4583,6 +4591,7 @@ Regional Music
                 Son cubano
                     Son cubano::genre
                     Bolero son::genre
+                    Son montuno::genre
                 Songo::genre
                 Timba::genre
                 Trova
@@ -6039,7 +6048,9 @@ Rock
             Midwest Emo::genre
             New Rave::genre
             Noise Pop::genre
-            Post-Punk Revival::genre
+            Post-Punk Revival
+                Post-Punk Revival::genre
+                Dance-Punk Revival::genre
             Slacker Rock
                 Slacker Rock::genre
                 Shitgaze::genre
@@ -6313,12 +6324,16 @@ Rock
     Post-Punk
         Post-Punk::genre
         Coldwave::genre
-        Dance-Punk::genre
+        Dance-Punk
+            Dance-Punk::genre
+            Dance-Punk Revival::genre
         Gothic Rock
             Gothic Rock::genre
             Deathrock::genre
             Positive Punk::genre
-        Post-Punk Revival::genre
+        Post-Punk Revival
+            Post-Punk Revival::genre
+            Dance-Punk Revival::genre
     Post-Rock::genre
     Progressive Rock
         Progressive Rock::genre
@@ -6664,6 +6679,7 @@ Uncategorised
             J-Pop::genre
             Akishibu-kei::genre
             Denpa::genre
+            J-Euro::genre
             Yakousei::genre
         Japanese Hardcore::genre
         Japanese Hip Hop::genre
@@ -6702,6 +6718,7 @@ Uncategorised
         New York Hardcore::genre
         No Wave::genre
         NOLA Sludge::genre
+        Northern Soul::genre
         Nova vanguarda paulistana::genre
         Novaya scena::genre
         Novo Dub::genre
@@ -6726,6 +6743,7 @@ Uncategorised
         Queercore::genre
         RABM::genre
         Red Dirt::genre
+        Revolution Summer::genre
         Riot Grrrl::genre
         Rock barrial::genre
         Rock in Opposition::genre
@@ -6769,6 +6787,9 @@ Uncategorised
         Windmill Scene::genre
         Women's Music Movement::genre
         Yass::genre
+        YTPMV
+            YTPMV::genre
+            otoMAD::genre
         Yugoslav New Wave::genre
         Zimdancehall::genre
     Sound Effects
@@ -6776,6 +6797,3 @@ Uncategorised
         Battle Record::genre
         Binaural Beats::genre
         Broadband Noise::genre
-    YTPMV
-        YTPMV::genre
-        otoMAD::genre
