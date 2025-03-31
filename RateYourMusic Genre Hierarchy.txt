@@ -1653,7 +1653,6 @@ Folk
                 Valencian Folk Music::genre
             Celtic Folk Music
                 Celtic Folk Music::genre
-                Asturian Folk Music::genre
                 Breton Celtic Folk Music
                     Breton Celtic Folk Music::genre
                     Bagad::genre
@@ -2237,7 +2236,9 @@ Metal
         Technical Death Metal
             Technical Death Metal::genre
             Dissonant Death Metal::genre
-    Djent::genre
+    Djent
+        Djent::genre
+        Thall::genre
     Doom Metal
         Doom Metal::genre
         Death Doom Metal::genre
@@ -2278,6 +2279,7 @@ Metal
             Downtempo Deathcore::genre
         Mathcore::genre
         Melodic Metalcore::genre
+        Thall::genre
     Neoclassical Metal::genre
     Post-Metal
         Post-Metal::genre
@@ -2422,6 +2424,12 @@ Pop
     Italo Pop
         Italo Pop::genre
         Canzone neomelodica::genre
+    J-Pop
+        J-Pop::genre
+        Akishibu-kei::genre
+        Denpa::genre
+        J-Euro::genre
+        Yakousei::genre
     Jazz Pop::genre
     Kayōkyoku
         Kayōkyoku::genre
@@ -2607,6 +2615,7 @@ Punk
                 Downtempo Deathcore::genre
             Mathcore::genre
             Melodic Metalcore::genre
+            Thall::genre
         Nintendocore::genre
         Noisecore::genre
         Post-Hardcore
@@ -3494,6 +3503,7 @@ Regional Music
                 Balitaw::genre
                 Harana::genre
                 Igorot Music::genre
+                Ilocano Music::genre
                 Kundiman::genre
                 OPM::genre
                 Philippine Rondalla::genre
@@ -3959,6 +3969,7 @@ Regional Music
             British Brass Band::genre
             British Dance Band::genre
             British Folk Rock::genre
+            Change Ringing::genre
             Contenance angloise::genre
             English Folk Music
                 English Folk Music::genre
@@ -4081,7 +4092,6 @@ Regional Music
                 Valencian Folk Music::genre
             Celtic Folk Music
                 Celtic Folk Music::genre
-                Asturian Folk Music::genre
                 Breton Celtic Folk Music
                     Breton Celtic Folk Music::genre
                     Bagad::genre
@@ -5683,7 +5693,6 @@ Regional Music
                 Valencian Folk Music::genre
             Celtic Folk Music
                 Celtic Folk Music::genre
-                Asturian Folk Music::genre
                 Breton Celtic Folk Music
                     Breton Celtic Folk Music::genre
                     Bagad::genre
@@ -6168,6 +6177,7 @@ Rock
                 Downtempo Deathcore::genre
             Mathcore::genre
             Melodic Metalcore::genre
+            Thall::genre
         Nintendocore::genre
         Noisecore::genre
         Post-Hardcore
@@ -6225,7 +6235,9 @@ Rock
             Technical Death Metal
                 Technical Death Metal::genre
                 Dissonant Death Metal::genre
-        Djent::genre
+        Djent
+            Djent::genre
+            Thall::genre
         Doom Metal
             Doom Metal::genre
             Death Doom Metal::genre
@@ -6266,6 +6278,7 @@ Rock
                 Downtempo Deathcore::genre
             Mathcore::genre
             Melodic Metalcore::genre
+            Thall::genre
         Neoclassical Metal::genre
         Post-Metal
             Post-Metal::genre
@@ -6647,6 +6660,7 @@ Uncategorised
                 Praise & Worship::genre
                 Praise Break::genre
             Urban Contemporary Gospel::genre
+        Česká alternativní scéna::genre
         Český underground::genre
         Chicago School::genre
         Clube da esquina::genre
@@ -6761,6 +6775,7 @@ Uncategorised
             Akishibu-kei::genre
             Picopop::genre
         Shimokita-kei::genre
+        Siberian Punk::genre
         SoundClown::genre
         Southern Hip Hop::genre
         Sovietwave::genre
@@ -6769,6 +6784,7 @@ Uncategorised
             Hardline::genre
         Swing Revival::genre
         T-Pop::genre
+        The Wave::genre
         Tropicália::genre
         Tropicanibalismo::genre
         Udigrudi::genre
@@ -6797,3 +6813,4 @@ Uncategorised
         Battle Record::genre
         Binaural Beats::genre
         Broadband Noise::genre
+    Toypop::genre
