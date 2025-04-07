@@ -216,6 +216,7 @@ Classical Music
         Modern Classical
             Modern Classical::genre
             Expressionism::genre
+            Futurism::genre
             Impressionism::genre
             Indeterminacy::genre
             Microtonal Classical::genre
@@ -1352,6 +1353,7 @@ Experimental
     Free Improvisation
         Free Improvisation::genre
         EAI::genre
+    Futurism::genre
     Glitch::genre
     Graphical Sound::genre
     Indeterminacy::genre
@@ -1485,6 +1487,7 @@ Folk
             Fijiri::genre
             Liwa::genre
             Nuban::genre
+            Sa'idi::genre
         Australian Folk Music::genre
         Bayawan::genre
         Brazilian Folk Music
@@ -1989,6 +1992,7 @@ Hip Hop
     Bounce::genre
     Chipmunk Soul::genre
     Chopped and Screwed::genre
+    Christian Hip Hop::genre
     Cloud Rap::genre
     Comedy Rap
         Comedy Rap::genre
@@ -2221,6 +2225,7 @@ Metal
         Black Noise::genre
         Dissonant Black Metal::genre
         DSBM::genre
+        Hellenic Black Metal::genre
         Melodic Black Metal::genre
         Pagan Black Metal::genre
         Symphonic Black Metal::genre
@@ -2903,6 +2908,7 @@ Regional Music
                 Ancient Egyptian Music::genre
                 Coptic Music::genre
                 Raqs baladi::genre
+                Sa'idi::genre
                 Shaabi
                     Shaabi::genre
                     Mahraganat::genre
@@ -3076,6 +3082,7 @@ Regional Music
             Fijiri::genre
             Liwa::genre
             Nuban::genre
+            Sa'idi::genre
         Arabic Jazz::genre
         Arabic Pop
             Arabic Pop::genre
@@ -3352,6 +3359,7 @@ Regional Music
             Adhunik geet::genre
             Baila::genre
             Balochi Music::genre
+            Bhajan::genre
             Bhangra
                 Bhangra::genre
                 Folkhop::genre
@@ -5525,6 +5533,7 @@ Regional Music
             Fijiri::genre
             Liwa::genre
             Nuban::genre
+            Sa'idi::genre
         Australian Folk Music::genre
         Bayawan::genre
         Brazilian Folk Music
@@ -6220,6 +6229,7 @@ Rock
             Black Noise::genre
             Dissonant Black Metal::genre
             DSBM::genre
+            Hellenic Black Metal::genre
             Melodic Black Metal::genre
             Pagan Black Metal::genre
             Symphonic Black Metal::genre
@@ -6451,6 +6461,192 @@ Rock
     Symphonic Rock::genre
     Tolai Rock::genre
     Zolo::genre
+Scenes & Movements
+    Scenes & Movements::genre
+    Alté::genre
+    Asian Underground::genre
+    Aussie Pub Rock::genre
+    Bérite Club::genre
+    Bloghouse::genre
+    Bristol Sound::genre
+    Britpop::genre
+    Brno Alternative Scene::genre
+    Brony Music::genre
+    C-Pop
+        C-Pop::genre
+        Cantopop::genre
+        Gufeng::genre
+        Hokkien Pop::genre
+        Mandopop::genre
+        Zhongguo feng::genre
+    Campus Folk::genre
+    Canterbury Scene
+        Canterbury Scene::genre
+        Neo-Canterbury::genre
+    Cascadian Black Metal::genre
+    CCM
+        CCM::genre
+        Christian Rock::genre
+        Praise & Worship
+            Praise & Worship::genre
+            Praise Break::genre
+        Urban Contemporary Gospel::genre
+    Česká alternativní scéna::genre
+    Český underground::genre
+    Chicago School::genre
+    Clube da esquina::genre
+    Cocktail Nation::genre
+    Deutschrock::genre
+    Dolewave::genre
+    Donosti Sound::genre
+    Doujin Music
+        Doujin Music::genre
+        Touhou Music::genre
+    Dunedin Sound::genre
+    East Coast Hip Hop::genre
+    Emo Revival::genre
+    Filk::genre
+    French Hip Hop::genre
+    Futurism::genre
+    Gothenburg Sound::genre
+    Grebo::genre
+    Greenwich Village Scene::genre
+    Group Sounds::genre
+    Hamburger Schule::genre
+    Hauntology::genre
+    Hellenic Black Metal::genre
+    Hip-hopolo::genre
+    Hipco::genre
+    Hoboken Sound::genre
+    Holy Terror::genre
+    J-core
+        J-core::genre
+        Future Core::genre
+    J-Pop
+        J-Pop::genre
+        Akishibu-kei::genre
+        Denpa::genre
+        J-Euro::genre
+        Yakousei::genre
+    Japanese Hardcore::genre
+    Japanese Hip Hop::genre
+    Japanese Idol
+        Japanese Idol::genre
+        Alternative Idol::genre
+    Jersey Shore Sound::genre
+    Jovem Guarda::genre
+    K-Pop
+        K-Pop::genre
+        Semi-Trot::genre
+    Kawaii Metal::genre
+    LA Beat Scene::genre
+    Little Band Scene::genre
+    Loft Jazz::genre
+    Louisville Sound::genre
+    Madchester::genre
+    Manguebeat::genre
+    Manila Sound::genre
+    Merseybeat::genre
+    Minneapolis Sound::genre
+    Młoda Polska::genre
+    Mod
+        Mod::genre
+        Mod Revival::genre
+    Movida madrileña::genre
+    Nederbeat::genre
+    Nerdcore Hip Hop::genre
+    Nerdcore Techno::genre
+    Neue Deutsche Todeskunst::genre
+    Neue Deutsche Welle::genre
+    Neue Volksmusik::genre
+    New Music::genre
+    New Orleans Blues::genre
+    New Primitivism::genre
+    New Romantic::genre
+    New Tone::genre
+    New Weird America::genre
+    New York Hardcore::genre
+    No Wave::genre
+    NOLA Sludge::genre
+    Northern Soul::genre
+    Nova vanguarda paulistana::genre
+    Novaya scena::genre
+    Novo Dub::genre
+    Nueva canción
+        Nueva canción::genre
+        Nueva canción española::genre
+        Nueva canción latinoamericana
+            Nueva canción latinoamericana::genre
+            Nueva canción chilena::genre
+            Nueva trova::genre
+            Nuevo Cancionero::genre
+    Nueva ola::genre
+    NWOBHM::genre
+    Onkyo::genre
+    OPM::genre
+    Palm Desert Scene::genre
+    Pop Kreatif::genre
+    Pop Yeh-Yeh::genre
+    Positive Punk::genre
+    Psichedelia occulta italiana::genre
+    Q-Pop::genre
+    Queercore::genre
+    RABM::genre
+    Red Dirt::genre
+    Revolution Summer::genre
+    Riot Grrrl::genre
+    Rock barrial::genre
+    Rock in Opposition::genre
+    Rock radical vasco::genre
+    Rock subterráneo::genre
+    Rock urbano mexicano::genre
+    Romanticism
+        Romanticism::genre
+        Grand opéra::genre
+        Romantische Oper::genre
+    Russemusikk::genre
+    San Francisco Sound::genre
+    Seapunk::genre
+    Shibuya-kei
+        Shibuya-kei::genre
+        Akishibu-kei::genre
+        Picopop::genre
+    Shimokita-kei::genre
+    Siberian Punk::genre
+    SoundClown::genre
+    Southern Hip Hop::genre
+    Sovietwave::genre
+    Straight Edge
+        Straight Edge::genre
+        Hardline::genre
+    Swing Revival::genre
+    T-Pop::genre
+    The Wave::genre
+    Tropicália::genre
+    Tropicanibalismo::genre
+    Udigrudi::genre
+    UK Hip Hop::genre
+    UK82::genre
+    Ultra::genre
+    Urban Grooves::genre
+    V-Pop::genre
+    Vanguarda paulista::genre
+    Visual kei
+        Visual kei::genre
+        Kote kei::genre
+        Nagoya kei::genre
+        Soft Visual::genre
+    Vixa::genre
+    Vocaloid Scene::genre
+    West Coast Hip Hop::genre
+    Windmill Scene::genre
+    Women's Music Movement::genre
+    Yass::genre
+    YTPMV
+        YTPMV::genre
+        otoMAD::genre
+    Yugoslav New Wave::genre
+    Zimdancehall::genre
 Singer-Songwriter
     Singer-Songwriter::genre
     Avtorskaya pesnya
@@ -6548,6 +6744,7 @@ Uncategorised
             Toada de Boi::genre
         Hymns
             Hymns::genre
+            Bhajan::genre
             Lauda::genre
             Sacred Harp Singing::genre
         Musical Parody::genre
@@ -6629,185 +6826,6 @@ Uncategorised
     Mashup::genre
     Mechanical Music::genre
     Parlour Music::genre
-    Scenes & Movements
-        Scenes & Movements::genre
-        Alté::genre
-        Asian Underground::genre
-        Aussie Pub Rock::genre
-        Bérite Club::genre
-        Bloghouse::genre
-        Bristol Sound::genre
-        Britpop::genre
-        Brno Alternative Scene::genre
-        Brony Music::genre
-        C-Pop
-            C-Pop::genre
-            Cantopop::genre
-            Gufeng::genre
-            Hokkien Pop::genre
-            Mandopop::genre
-            Zhongguo feng::genre
-        Campus Folk::genre
-        Canterbury Scene
-            Canterbury Scene::genre
-            Neo-Canterbury::genre
-        Cascadian Black Metal::genre
-        CCM
-            CCM::genre
-            Christian Hip Hop::genre
-            Christian Rock::genre
-            Praise & Worship
-                Praise & Worship::genre
-                Praise Break::genre
-            Urban Contemporary Gospel::genre
-        Česká alternativní scéna::genre
-        Český underground::genre
-        Chicago School::genre
-        Clube da esquina::genre
-        Cocktail Nation::genre
-        Dolewave::genre
-        Donosti Sound::genre
-        Doujin Music
-            Doujin Music::genre
-            Touhou Music::genre
-        Dunedin Sound::genre
-        East Coast Hip Hop::genre
-        Emo Revival::genre
-        Filk::genre
-        French Hip Hop::genre
-        Futurism::genre
-        Gothenburg Sound::genre
-        Grebo::genre
-        Greenwich Village Scene::genre
-        Group Sounds::genre
-        Hamburger Schule::genre
-        Hauntology::genre
-        Hip-hopolo::genre
-        Hipco::genre
-        Hoboken Sound::genre
-        Holy Terror::genre
-        J-core
-            J-core::genre
-            Future Core::genre
-        J-Pop
-            J-Pop::genre
-            Akishibu-kei::genre
-            Denpa::genre
-            J-Euro::genre
-            Yakousei::genre
-        Japanese Hardcore::genre
-        Japanese Hip Hop::genre
-        Japanese Idol
-            Japanese Idol::genre
-            Alternative Idol::genre
-        Jersey Shore Sound::genre
-        Jovem Guarda::genre
-        K-Pop
-            K-Pop::genre
-            Semi-Trot::genre
-        Kawaii Metal::genre
-        LA Beat Scene::genre
-        Little Band Scene::genre
-        Louisville Sound::genre
-        Madchester::genre
-        Manguebeat::genre
-        Manila Sound::genre
-        Merseybeat::genre
-        Minneapolis Sound::genre
-        Młoda Polska::genre
-        Mod
-            Mod::genre
-            Mod Revival::genre
-        Movida madrileña::genre
-        Nederbeat::genre
-        Nerdcore Techno::genre
-        Neue Deutsche Welle::genre
-        Neue Volksmusik::genre
-        New Music::genre
-        New Orleans Blues::genre
-        New Primitivism::genre
-        New Romantic::genre
-        New Tone::genre
-        New Weird America::genre
-        New York Hardcore::genre
-        No Wave::genre
-        NOLA Sludge::genre
-        Northern Soul::genre
-        Nova vanguarda paulistana::genre
-        Novaya scena::genre
-        Novo Dub::genre
-        Nueva canción
-            Nueva canción::genre
-            Nueva canción española::genre
-            Nueva canción latinoamericana
-                Nueva canción latinoamericana::genre
-                Nueva canción chilena::genre
-                Nueva trova::genre
-                Nuevo Cancionero::genre
-        Nueva ola::genre
-        NWOBHM::genre
-        Onkyo::genre
-        OPM::genre
-        Palm Desert Scene::genre
-        Pop Kreatif::genre
-        Pop Yeh-Yeh::genre
-        Positive Punk::genre
-        Psichedelia occulta italiana::genre
-        Q-Pop::genre
-        Queercore::genre
-        RABM::genre
-        Red Dirt::genre
-        Revolution Summer::genre
-        Riot Grrrl::genre
-        Rock barrial::genre
-        Rock in Opposition::genre
-        Rock radical vasco::genre
-        Rock subterráneo::genre
-        Rock urbano mexicano::genre
-        Romanticism
-            Romanticism::genre
-            Grand opéra::genre
-            Romantische Oper::genre
-        Russemusikk::genre
-        Seapunk::genre
-        Shibuya-kei
-            Shibuya-kei::genre
-            Akishibu-kei::genre
-            Picopop::genre
-        Shimokita-kei::genre
-        Siberian Punk::genre
-        SoundClown::genre
-        Southern Hip Hop::genre
-        Sovietwave::genre
-        Straight Edge
-            Straight Edge::genre
-            Hardline::genre
-        Swing Revival::genre
-        T-Pop::genre
-        The Wave::genre
-        Tropicália::genre
-        Tropicanibalismo::genre
-        Udigrudi::genre
-        UK Hip Hop::genre
-        UK82::genre
-        Ultra::genre
-        Urban Grooves::genre
-        V-Pop::genre
-        Vanguarda paulista::genre
-        Visual kei
-            Visual kei::genre
-            Nagoya kei::genre
-        Vixa::genre
-        Vocaloid Scene::genre
-        West Coast Hip Hop::genre
-        Windmill Scene::genre
-        Women's Music Movement::genre
-        Yass::genre
-        YTPMV
-            YTPMV::genre
-            otoMAD::genre
-        Yugoslav New Wave::genre
-        Zimdancehall::genre
     Sound Effects
         Sound Effects::genre
         Battle Record::genre
