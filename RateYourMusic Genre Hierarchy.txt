@@ -738,8 +738,8 @@ Genres
                 Acid Trance::genre
                 Big Room Trance::genre
                 Dream Trance::genre
-                Euro-Trance
-                    Euro-Trance::genre
+                Euro Trance
+                    Euro Trance::genre
                     Hands Up
                         Hands Up::genre
                         Buchiage Trance::genre
@@ -1211,8 +1211,8 @@ Genres
                 Acid Trance::genre
                 Big Room Trance::genre
                 Dream Trance::genre
-                Euro-Trance
-                    Euro-Trance::genre
+                Euro Trance
+                    Euro Trance::genre
                     Hands Up
                         Hands Up::genre
                         Buchiage Trance::genre
@@ -2783,6 +2783,7 @@ Genres
             Ska::genre
             2 Tone::genre
             Jamaican Ska::genre
+            New Tone::genre
             Spouge::genre
             Third Wave Ska
                 Third Wave Ska::genre
@@ -3200,11 +3201,13 @@ Genres
                             Revolutionary Opera::genre
                         Shaoxing Opera::genre
                         Yangzhou Opera::genre
-                    Guangdong yinyue::genre
                     Minyue::genre
                     Quyi::genre
                     Shidaiqu::genre
-                    Sizhu Music::genre
+                    Sizhu Music
+                        Sizhu Music::genre
+                        Chaozhou xianshi::genre
+                        Guangdong yinyue::genre
                     Xinyao::genre
                     Zhongguo feng::genre
                 East Asian Classical Music
@@ -6325,7 +6328,9 @@ Genres
             Viking Metal::genre
         Miejski folk::genre
         Mod Revival::genre
-        New Wave::genre
+        New Wave
+            New Wave::genre
+            2 Tone::genre
         Noise Rock
             Noise Rock::genre
             Pigfuck::genre
@@ -6535,6 +6540,7 @@ Genres
             Darkwave::genre
             Ethereal Wave::genre
             Neoclassical Darkwave::genre
+            Neue Deutsche Todeskunst::genre
         Descriptor
             Descriptor::genre
             A cappella
@@ -6667,6 +6673,7 @@ Scenes & Movements
     Aussie Pub Rock::genre
     Bérite Club::genre
     Bloghouse::genre
+    Bosstown Sound::genre
     Bristol Sound::genre
     Britpop::genre
     Brno Alternative Scene::genre
@@ -6695,6 +6702,7 @@ Scenes & Movements
     Chicago School::genre
     Clube da esquina::genre
     Cocktail Nation::genre
+    Demoscene::genre
     Deutschrock::genre
     Dolewave::genre
     Donosti Sound::genre
@@ -6756,7 +6764,6 @@ Scenes & Movements
     Nederbeat::genre
     Nerdcore Hip Hop::genre
     Nerdcore Techno::genre
-    Neue Deutsche Todeskunst::genre
     Neue Deutsche Welle::genre
     Neue Volksmusik::genre
     New Music::genre
