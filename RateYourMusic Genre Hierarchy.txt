@@ -2444,6 +2444,9 @@ Genres
             J-Euro::genre
             Yakousei::genre
         Jazz Pop::genre
+        K-Pop
+            K-Pop::genre
+            Semi-Trot::genre
         Kayōkyoku
             Kayōkyoku::genre
             Idol kayō::genre
@@ -2946,6 +2949,7 @@ Genres
                     Azmari::genre
                     Ethio-Jazz::genre
                     Ethiopian Church Music::genre
+                    Gurage Music::genre
                     Manzuma::genre
                     Tigrinya Music::genre
                     Tizita::genre
@@ -3208,6 +3212,7 @@ Genres
                         Sizhu Music::genre
                         Chaozhou xianshi::genre
                         Guangdong yinyue::genre
+                        Jiangnan sizhu::genre
                     Xinyao::genre
                     Zhongguo feng::genre
                 East Asian Classical Music
@@ -6112,6 +6117,7 @@ Genres
             Boogie Rock::genre
         British Rhythm & Blues::genre
         Candombe beat::genre
+        Christian Rock::genre
         Comedy Rock::genre
         Country Rock::genre
         Cowpunk::genre
@@ -6678,6 +6684,7 @@ Scenes & Movements
     Britpop::genre
     Brno Alternative Scene::genre
     Brony Music::genre
+    Burger-Highlife::genre
     C-Pop
         C-Pop::genre
         Cantopop::genre
@@ -6692,7 +6699,6 @@ Scenes & Movements
     Cascadian Black Metal::genre
     CCM
         CCM::genre
-        Christian Rock::genre
         Praise & Worship
             Praise & Worship::genre
             Praise Break::genre
@@ -6747,6 +6753,7 @@ Scenes & Movements
         Semi-Trot::genre
     Kawaii Metal::genre
     LA Beat Scene::genre
+    Laurel Canyon Scene::genre
     Leningrad Rock Club Scene::genre
     Little Band Scene::genre
     Loft Jazz::genre
@@ -6766,6 +6773,7 @@ Scenes & Movements
     Nerdcore Techno::genre
     Neue Deutsche Welle::genre
     Neue Volksmusik::genre
+    New London Jazz::genre
     New Music::genre
     New Orleans Blues::genre
     New Primitivism::genre
