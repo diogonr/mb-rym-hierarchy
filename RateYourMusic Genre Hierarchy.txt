@@ -708,6 +708,7 @@ Genres
             Shangaan Electro::genre
             Singeli::genre
             Skweee::genre
+            Slimepunk::genre
             Techno
                 Techno::genre
                 Acid Techno::genre
@@ -795,7 +796,9 @@ Genres
     Easy Listening
         Easy Listening::genre
         Cocktail Nation::genre
-        Exotica::genre
+        Exotica
+            Exotica::genre
+            Sitarsploitation::genre
         Light Music::genre
         Lounge::genre
         Pops Orchestra::genre
@@ -1181,6 +1184,7 @@ Genres
             Shangaan Electro::genre
             Singeli::genre
             Skweee::genre
+            Slimepunk::genre
             Techno
                 Techno::genre
                 Acid Techno::genre
@@ -2421,7 +2425,6 @@ Genres
             Stomp and Holler::genre
         French Pop::genre
         Girl Group::genre
-        Glitch Pop::genre
         Hmong Pop::genre
         Hyperpop::genre
         Indian Pop::genre
@@ -2567,6 +2570,7 @@ Genres
                 Space Rock Revival::genre
             Zamrock::genre
         Psychedelic Soul::genre
+        Sitarsploitation::genre
         Stoner Metal::genre
         Stoner Rock::genre
         Tropicália::genre
@@ -3079,6 +3083,7 @@ Genres
             Mesopotamian Music::genre
         Arabic Music
             Arabic Music::genre
+            Al-Jadīd::genre
             Algerian Chaabi::genre
             Arabic Classical Music
                 Arabic Classical Music::genre
@@ -3129,7 +3134,6 @@ Genres
                 Shaabi::genre
                 Mahraganat::genre
                 Trap shaabi::genre
-            Traditional Arabic Pop::genre
             Zajal::genre
         Asian Music
             Asian Music::genre
@@ -3213,6 +3217,7 @@ Genres
                         Chaozhou xianshi::genre
                         Guangdong yinyue::genre
                         Jiangnan sizhu::genre
+                        Nanyin::genre
                     Xinyao::genre
                     Zhongguo feng::genre
                 East Asian Classical Music
@@ -3881,6 +3886,7 @@ Genres
             Steel Band::genre
             Tropicanibalismo::genre
             Vallenato::genre
+        Central American Music::genre
         Christian Liturgical Music
             Christian Liturgical Music::genre
             Anglican Chant::genre
@@ -4718,9 +4724,6 @@ Genres
                     Nortec::genre
                     Tribal Guarachero::genre
                 Latin Funk::genre
-                Latin Jazz
-                    Latin Jazz::genre
-                    Afro-Cuban Jazz::genre
                 Latin Pop
                     Latin Pop::genre
                     Cumbia pop::genre
@@ -6677,6 +6680,7 @@ Scenes & Movements
     Anarcho-Punk::genre
     Asian Underground::genre
     Aussie Pub Rock::genre
+    Beach Music::genre
     Bérite Club::genre
     Bloghouse::genre
     Bosstown Sound::genre
@@ -6780,6 +6784,7 @@ Scenes & Movements
     New Romantic::genre
     New Tone::genre
     New Weird America::genre
+    New Weird Finland::genre
     New York Hardcore::genre
     No Wave::genre
     NOLA Sludge::genre
