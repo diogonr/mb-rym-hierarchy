@@ -6469,7 +6469,6 @@ Genres
         Rock andino::genre
         Rock Musical::genre
         Rock Opera::genre
-        Rock urbano español::genre
         Roots Rock
             Roots Rock::genre
             Swamp Rock::genre
@@ -6819,6 +6818,7 @@ Scenes & Movements
     Rock in Opposition::genre
     Rock radical vasco::genre
     Rock subterráneo::genre
+    Rock urbano español::genre
     Rock urbano mexicano::genre
     Romanticism
         Romanticism::genre
@@ -6841,6 +6841,7 @@ Scenes & Movements
         Hardline::genre
     Swing Revival::genre
     T-Pop::genre
+    Texas Psychedelia Scene::genre
     The Wave::genre
     Tropicália::genre
     Tropicanibalismo::genre
