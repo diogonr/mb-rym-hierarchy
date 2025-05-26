@@ -1449,7 +1449,6 @@ Genres
                     Afrikaner Folk Music::genre
                     Khoisan Folk Music::genre
                     Nguni Folk Music::genre
-                    Shona Mbira Music::genre
                     Sotho-Tswana Folk Music::genre
                 Tchinkoumé::genre
                 Traditional Maloya::genre
@@ -1703,6 +1702,7 @@ Genres
                         Breton Celtic Folk Music
                             Breton Celtic Folk Music::genre
                             Bagad::genre
+                        Kan ha diskan::genre
                     Corsican Folk Music
                         Corsican Folk Music::genre
                         Paghjella::genre
@@ -2427,7 +2427,9 @@ Genres
         Girl Group::genre
         Hmong Pop::genre
         Hyperpop::genre
-        Indian Pop::genre
+        Indian Pop
+            Indian Pop::genre
+            Bohjpuri Pop::genre
         Indie Pop
             Indie Pop::genre
             Bedroom Pop::genre
@@ -2435,7 +2437,9 @@ Genres
             Chamber Pop::genre
             Neo-Acoustic::genre
             Tontipop::genre
-            Twee Pop::genre
+            Twee Pop
+                Twee Pop::genre
+                Cuddlecore::genre
         Irish Showband::genre
         Italo Pop
             Italo Pop::genre
@@ -2504,7 +2508,9 @@ Genres
                 Tropical Rock::genre
                 Yacht Rock::genre
             Stereo::genre
-            Twee Pop::genre
+            Twee Pop
+                Twee Pop::genre
+                Cuddlecore::genre
             Vocal Surf::genre
         Pop Soul
             Pop Soul::genre
@@ -2823,7 +2829,6 @@ Genres
                     Afrikaner Folk Music::genre
                     Khoisan Folk Music::genre
                     Nguni Folk Music::genre
-                    Shona Mbira Music::genre
                     Sotho-Tswana Folk Music::genre
                 Tchinkoumé::genre
                 Traditional Maloya::genre
@@ -3008,7 +3013,6 @@ Genres
                     Afrikaner Folk Music::genre
                     Khoisan Folk Music::genre
                     Nguni Folk Music::genre
-                    Shona Mbira Music::genre
                     Sotho-Tswana Folk Music::genre
                 Sungura::genre
                 Township Bubblegum::genre
@@ -3389,7 +3393,9 @@ Genres
                 Filmi::genre
                 Garba::genre
                 Ginan::genre
-                Indian Pop::genre
+                Indian Pop
+                    Indian Pop::genre
+                    Bohjpuri Pop::genre
                 Indo Jazz::genre
                 Pop Ghazal::genre
                 Rigsar::genre
@@ -3886,7 +3892,9 @@ Genres
             Steel Band::genre
             Tropicanibalismo::genre
             Vallenato::genre
-        Central American Music::genre
+        Central American Music
+            Central American Music::genre
+            Xuc::genre
         Christian Liturgical Music
             Christian Liturgical Music::genre
             Anglican Chant::genre
@@ -4162,6 +4170,7 @@ Genres
                         Breton Celtic Folk Music
                             Breton Celtic Folk Music::genre
                             Bagad::genre
+                        Kan ha diskan::genre
                     Corsican Folk Music
                         Corsican Folk Music::genre
                         Paghjella::genre
@@ -4657,6 +4666,7 @@ Genres
                             Cumbia rebajada::genre
                     Cumbia peruana
                         Cumbia peruana::genre
+                        Chicha::genre
                         Cumbia amazónica::genre
                         Cumbia norteña peruana::genre
                     Cumbia pop::genre
@@ -4785,6 +4795,7 @@ Genres
                     Peruvian Music::genre
                     Cumbia peruana
                         Cumbia peruana::genre
+                        Chicha::genre
                         Cumbia amazónica::genre
                         Cumbia norteña peruana::genre
                     Música criolla peruana
@@ -5305,6 +5316,7 @@ Genres
                         Frevo::genre
                         Frevo de bloco::genre
                         Frevo de rua::genre
+                        Frevo elétrico::genre
                         Frevo-canção::genre
                     Manguebeat::genre
                     Maracatu::genre
@@ -5443,6 +5455,7 @@ Genres
                 Peruvian Music::genre
                 Cumbia peruana
                     Cumbia peruana::genre
+                    Chicha::genre
                     Cumbia amazónica::genre
                     Cumbia norteña peruana::genre
                 Música criolla peruana
@@ -5507,7 +5520,6 @@ Genres
                     Afrikaner Folk Music::genre
                     Khoisan Folk Music::genre
                     Nguni Folk Music::genre
-                    Shona Mbira Music::genre
                     Sotho-Tswana Folk Music::genre
                 Tchinkoumé::genre
                 Traditional Maloya::genre
@@ -5761,6 +5773,7 @@ Genres
                         Breton Celtic Folk Music
                             Breton Celtic Folk Music::genre
                             Bagad::genre
+                        Kan ha diskan::genre
                     Corsican Folk Music
                         Corsican Folk Music::genre
                         Paghjella::genre
@@ -6370,7 +6383,9 @@ Genres
                 Tropical Rock::genre
                 Yacht Rock::genre
             Stereo::genre
-            Twee Pop::genre
+            Twee Pop
+                Twee Pop::genre
+                Cuddlecore::genre
             Vocal Surf::genre
         Post-Punk
             Post-Punk::genre
@@ -6526,6 +6541,7 @@ Genres
         Uncategorised::genre
         Ambient Pop::genre
         ASMR::genre
+        Audio Documentary::genre
         Beatboxing::genre
         Bugle Call::genre
         Comedy
@@ -6668,6 +6684,7 @@ Genres
         Mashup::genre
         Mechanical Music::genre
         Parlour Music::genre
+        Sacred Singing Circle::genre
         Sound Effects
             Sound Effects::genre
             Battle Record::genre
@@ -6722,6 +6739,7 @@ Scenes & Movements
     East Coast Hip Hop::genre
     Emo Revival::genre
     Filk::genre
+    Fort Thunder Scene::genre
     French Hip Hop::genre
     Futurism::genre
     Gothenburg Sound::genre
@@ -6754,6 +6772,7 @@ Scenes & Movements
     K-Pop
         K-Pop::genre
         Semi-Trot::genre
+    Kansai No Wave::genre
     Kawaii Metal::genre
     LA Beat Scene::genre
     Laurel Canyon Scene::genre
@@ -6827,6 +6846,7 @@ Scenes & Movements
     Russemusikk::genre
     San Francisco Sound::genre
     Seapunk::genre
+    Second British Folk Revival::genre
     Shibuya-kei
         Shibuya-kei::genre
         Akishibu-kei::genre
