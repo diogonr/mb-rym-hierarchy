@@ -2097,6 +2097,7 @@ Genres
             No Melody::genre
             Plugg
                 Plugg::genre
+                Ambient Plugg::genre
                 Dark Plugg::genre
                 PluggnB
                     PluggnB::genre
@@ -2569,6 +2570,7 @@ Genres
         Psychedelic Rock
             Psychedelic Rock::genre
             Acid Rock::genre
+            Freakbeat::genre
             Heavy Psych::genre
             Raga Rock::genre
             Space Rock
@@ -3894,6 +3896,8 @@ Genres
             Vallenato::genre
         Central American Music
             Central American Music::genre
+            Punta::genre
+            Tamborera::genre
             Xuc::genre
         Christian Liturgical Music
             Christian Liturgical Music::genre
@@ -6416,6 +6420,7 @@ Genres
         Psychedelic Rock
             Psychedelic Rock::genre
             Acid Rock::genre
+            Freakbeat::genre
             Heavy Psych::genre
             Raga Rock::genre
             Space Rock
