@@ -2199,6 +2199,7 @@ Genres
         Latin Jazz
             Latin Jazz::genre
             Afro-Cuban Jazz::genre
+            Samba-jazz::genre
         Marabi
             Marabi::genre
             Kwela::genre
@@ -2207,7 +2208,6 @@ Genres
             Modal Jazz::genre
             Jazz Mugham::genre
         Post-Bop::genre
-        Samba-jazz::genre
         Smooth Jazz::genre
         Soul Jazz::genre
         Spiritual Jazz::genre
@@ -2475,6 +2475,7 @@ Genres
         New Music::genre
         OPM::genre
         Orthodox Pop::genre
+        P-Pop::genre
         Persian Pop::genre
         Pop Batak::genre
         Pop Ghazal::genre
@@ -3898,6 +3899,7 @@ Genres
             Central American Music::genre
             Punta::genre
             Tamborera::genre
+            Tamborito::genre
             Xuc::genre
         Christian Liturgical Music
             Christian Liturgical Music::genre
@@ -6353,10 +6355,10 @@ Genres
             Trance Metal::genre
             Viking Metal::genre
         Miejski folk::genre
-        Mod Revival::genre
         New Wave
             New Wave::genre
             2 Tone::genre
+            Mod Revival::genre
         Noise Rock
             Noise Rock::genre
             Pigfuck::genre
@@ -6827,6 +6829,7 @@ Scenes & Movements
     NWOBHM::genre
     Onkyo::genre
     OPM::genre
+    P-Pop::genre
     Palm Desert Scene::genre
     Pop Kreatif::genre
     Pop Yeh-Yeh::genre
@@ -6864,6 +6867,7 @@ Scenes & Movements
     Straight Edge
         Straight Edge::genre
         Hardline::genre
+        Vegan Straight Edge::genre
     Swing Revival::genre
     T-Pop::genre
     Texas Psychedelia Scene::genre
