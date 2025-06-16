@@ -1425,6 +1425,7 @@ Genres
                 Freak Folk::genre
                 Free Folk::genre
                 Udigrudi::genre
+                Wyrd Folk::genre
             Skiffle::genre
             Xinyao::genre
         Traditional Folk Music
@@ -2302,6 +2303,7 @@ Genres
         Post-Metal
             Post-Metal::genre
             Atmospheric Sludge Metal::genre
+            Blackgaze::genre
             Doomgaze::genre
         Power Metal::genre
         Progressive Metal::genre
@@ -2559,6 +2561,7 @@ Genres
         Neo-Psychedelia
             Neo-Psychedelia::genre
             Baggy::genre
+            Dream Pop::genre
             Hypnagogic Pop::genre
             Paisley Underground::genre
             Space Rock Revival::genre
@@ -2567,6 +2570,7 @@ Genres
             Freak Folk::genre
             Free Folk::genre
             Udigrudi::genre
+            Wyrd Folk::genre
         Psychedelic Pop::genre
         Psychedelic Rock
             Psychedelic Rock::genre
@@ -6338,6 +6342,7 @@ Genres
             Post-Metal
                 Post-Metal::genre
                 Atmospheric Sludge Metal::genre
+                Blackgaze::genre
                 Doomgaze::genre
             Power Metal::genre
             Progressive Metal::genre
@@ -6733,6 +6738,7 @@ Scenes & Movements
     Česká alternativní scéna::genre
     Český underground::genre
     Chicago School::genre
+    Christian Hardcore::genre
     Clube da esquina::genre
     Cocktail Nation::genre
     Demoscene::genre
@@ -6853,6 +6859,7 @@ Scenes & Movements
         Romantische Oper::genre
     Russemusikk::genre
     San Francisco Sound::genre
+    Scottish Folk Revival::genre
     Seapunk::genre
     Second British Folk Revival::genre
     Shibuya-kei
