@@ -278,6 +278,7 @@ Genres
                     Sinfonia concertante::genre
                 Tone Poem::genre
             Overture::genre
+            Passion::genre
             Prelude::genre
             Renaissance Music
                 Renaissance Music::genre
@@ -599,7 +600,9 @@ Genres
             House
                 House::genre
                 Acid House::genre
-                Afro House::genre
+                Afro House
+                    Afro House::genre
+                    3-Step::genre
                 Amapiano
                     Amapiano::genre
                     Afropiano::genre
@@ -1076,7 +1079,9 @@ Genres
             House
                 House::genre
                 Acid House::genre
-                Afro House::genre
+                Afro House
+                    Afro House::genre
+                    3-Step::genre
                 Amapiano
                     Amapiano::genre
                     Afropiano::genre
@@ -2370,6 +2375,7 @@ Genres
         Arabic Pop
             Arabic Pop::genre
             Al jeel::genre
+            Mūsīqā lubnāniyya::genre
         Art Pop::genre
         Balkan Pop-Folk
             Balkan Pop-Folk::genre
@@ -2583,11 +2589,13 @@ Genres
             Psychedelic Rock::genre
             Acid Rock::genre
             Freakbeat::genre
+            Garage Psych::genre
             Heavy Psych::genre
             Raga Rock::genre
             Space Rock
                 Space Rock::genre
                 Space Rock Revival::genre
+            Xian Psych::genre
             Zamrock::genre
         Psychedelic Soul::genre
         Sitarsploitation::genre
@@ -3123,6 +3131,7 @@ Genres
             Arabic Pop
                 Arabic Pop::genre
                 Al jeel::genre
+                Mūsīqā lubnāniyya::genre
             Bedouin Music
                 Bedouin Music::genre
                 Aita::genre
@@ -3143,6 +3152,7 @@ Genres
             Levantine Arabic Music
                 Levantine Arabic Music::genre
                 Druze Music::genre
+                Mūsīqā lubnāniyya::genre
             Orkes gambus::genre
             Raï
                 Raï::genre
@@ -3699,6 +3709,7 @@ Genres
                 Levantine Arabic Music
                     Levantine Arabic Music::genre
                     Druze Music::genre
+                    Mūsīqā lubnāniyya::genre
                 Maftirim::genre
                 Mesopotamian Music::genre
                 Muzika mizrahit
@@ -3923,6 +3934,7 @@ Genres
             Mass
                 Mass::genre
                 Requiem::genre
+            Passion::genre
             Plainsong
                 Plainsong::genre
                 Ambrosian Chant::genre
@@ -4867,6 +4879,7 @@ Genres
                 Murga::genre
                 Murga uruguaya::genre
             Philippine Rondalla::genre
+            Romance::genre
             Spanish Music
                 Spanish Music::genre
                 Bolero español::genre
@@ -6159,7 +6172,9 @@ Genres
             Boogie Rock::genre
         British Rhythm & Blues::genre
         Candombe beat::genre
-        Christian Rock::genre
+        Christian Rock
+            Christian Rock::genre
+            Xian Psych::genre
         Comedy Rock::genre
         Country Rock::genre
         Cowpunk::genre
@@ -6197,6 +6212,7 @@ Genres
             Garage Rock::genre
             Frat Rock::genre
             Freakbeat::genre
+            Garage Psych::genre
             Garage Punk::genre
             Garage Rock Revival::genre
         Glam Rock
@@ -6444,11 +6460,13 @@ Genres
             Psychedelic Rock::genre
             Acid Rock::genre
             Freakbeat::genre
+            Garage Psych::genre
             Heavy Psych::genre
             Raga Rock::genre
             Space Rock
                 Space Rock::genre
                 Space Rock Revival::genre
+            Xian Psych::genre
             Zamrock::genre
         Pub Rock::genre
         Punk Blues::genre
@@ -6720,6 +6738,7 @@ Genres
             Broadband Noise::genre
         Toypop::genre
 Scenes & Movements
+    Afrofuturism::genre
     Alté::genre
     Anarcho-Punk::genre
     Asian Underground::genre
@@ -6827,6 +6846,7 @@ Scenes & Movements
     New London Jazz::genre
     New Music::genre
     New Orleans Blues::genre
+    New Partisans::genre
     New Primitivism::genre
     New Romantic::genre
     New Tone::genre
