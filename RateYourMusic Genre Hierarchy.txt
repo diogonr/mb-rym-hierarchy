@@ -6829,6 +6829,7 @@ Scenes & Movements
     Loft Jazz::genre
     Louisville Sound::genre
     Madchester::genre
+    Maidcore::genre
     Manguebeat::genre
     Manila Sound::genre
     Merseybeat::genre
@@ -6886,6 +6887,7 @@ Scenes & Movements
     Rock barrial::genre
     Rock in Opposition::genre
     Rock radical vasco::genre
+    Rock sónico::genre
     Rock subterráneo::genre
     Rock urbano español::genre
     Rock urbano mexicano::genre
@@ -6914,6 +6916,7 @@ Scenes & Movements
             Hardline::genre
     Swing Revival::genre
     T-Pop::genre
+    Teutonic Thrash Metal::genre
     Texas Psychedelia Scene::genre
     The Wave::genre
     Tropicália::genre
@@ -6925,6 +6928,7 @@ Scenes & Movements
     Urban Grooves::genre
     V-Pop::genre
     Vanguarda paulista::genre
+    Vietnamese New Wave::genre
     Visual kei
         Visual kei::genre
         Kote kei::genre
