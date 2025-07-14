@@ -321,6 +321,7 @@ Genres
             Neo-Traditionalist Country::genre
         Country & Irish::genre
         Country Boogie::genre
+        Country Folk::genre
         Country Pop
             Country Pop::genre
             Bro-Country::genre
@@ -1415,6 +1416,7 @@ Genres
                 Free Folk::genre
             Campus Folk::genre
             Chamber Folk::genre
+            Country Folk::genre
             Folk Baroque::genre
             Folk Pop
                 Folk Pop::genre
@@ -2090,7 +2092,9 @@ Genres
         Snap::genre
         Trap
             Trap::genre
-            Detroit Trap::genre
+            Detroit Trap
+                Detroit Trap::genre
+                Flint Sound::genre
             Drill
                 Drill::genre
                 Chicago Drill
@@ -5078,6 +5082,7 @@ Genres
                     Neo-Traditionalist Country::genre
                 Country & Irish::genre
                 Country Boogie::genre
+                Country Folk::genre
                 Country Pop
                     Country Pop::genre
                     Bro-Country::genre
@@ -6707,6 +6712,7 @@ Genres
                     Bird Sounds::genre
                     Insect Sounds::genre
                     Whale Song::genre
+                Rain Sounds::genre
             Radio Broadcast Recordings::genre
         Hanmai::genre
         Mantra
@@ -6784,10 +6790,13 @@ Scenes & Movements
         Doujin Music::genre
         Touhou Music::genre
     Dunedin Sound::genre
+    Düsseldorf School::genre
     East Coast Hip Hop::genre
     Emo Revival::genre
+    English Underground::genre
     Filk::genre
     Fort Thunder Scene::genre
+    Free Noise::genre
     French Hip Hop::genre
     Futurism::genre
     Gothenburg Sound::genre
@@ -6907,7 +6916,9 @@ Scenes & Movements
     Shimokita-kei::genre
     Siberian Punk::genre
     SoundClown::genre
-    Southern Hip Hop::genre
+    Southern Hip Hop
+        Southern Hip Hop::genre
+        South Florida SoundCloud Rap::genre
     Sovietwave::genre
     Straight Edge
         Straight Edge::genre
@@ -6936,6 +6947,7 @@ Scenes & Movements
         Soft Visual::genre
     Vixa::genre
     Vocaloid Scene::genre
+    Voëlvry Movement::genre
     West Coast Hip Hop::genre
     Windmill Scene::genre
     Women's Music Movement::genre
