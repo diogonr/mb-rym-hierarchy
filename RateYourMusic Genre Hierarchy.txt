@@ -415,6 +415,7 @@ Genres
             Cruise::genre
             Dariacore::genre
             Deconstructed Club::genre
+            Dek Bass::genre
             Digital Cumbia::genre
             Drum and Bass
                 Drum and Bass::genre
@@ -664,7 +665,9 @@ Genres
                 Hip House::genre
                 Italo House::genre
                 Jackin' House::genre
-                Kwaito::genre
+                Kwaito
+                    Kwaito::genre
+                    Bacardi::genre
                 Latin House::genre
                 Melodic House::genre
                 Microhouse::genre
@@ -894,6 +897,7 @@ Genres
             Cruise::genre
             Dariacore::genre
             Deconstructed Club::genre
+            Dek Bass::genre
             Digital Cumbia::genre
             Drum and Bass
                 Drum and Bass::genre
@@ -1143,7 +1147,9 @@ Genres
                 Hip House::genre
                 Italo House::genre
                 Jackin' House::genre
-                Kwaito::genre
+                Kwaito
+                    Kwaito::genre
+                    Bacardi::genre
                 Latin House::genre
                 Melodic House::genre
                 Microhouse::genre
@@ -2027,6 +2033,9 @@ Genres
         Crunk
             Crunk::genre
             Crunkcore::genre
+        Detroit Sound
+            Detroit Sound::genre
+            Flint Sound::genre
         Digicore::genre
         Dirty South::genre
         Disco Rap::genre
@@ -2092,9 +2101,6 @@ Genres
         Snap::genre
         Trap
             Trap::genre
-            Detroit Trap
-                Detroit Trap::genre
-                Flint Sound::genre
             Drill
                 Drill::genre
                 Chicago Drill
@@ -3022,7 +3028,9 @@ Genres
                 Gqom::genre
                 Isicathamiya::genre
                 Jit::genre
-                Kwaito::genre
+                Kwaito
+                    Kwaito::genre
+                    Bacardi::genre
                 Marabi
                     Marabi::genre
                     Kwela::genre
@@ -3417,6 +3425,7 @@ Genres
                 Bhangra
                     Bhangra::genre
                     Folkhop::genre
+                Dek Bass::genre
                 Dhol tasha::genre
                 Filmi::genre
                 Garba::genre
@@ -6782,6 +6791,8 @@ Scenes & Movements
     Christian Hardcore::genre
     Clube da esquina::genre
     Cocktail Nation::genre
+    Dariacore::genre
+    Dek Bass::genre
     Demoscene::genre
     Deutschrock::genre
     Dolewave::genre
