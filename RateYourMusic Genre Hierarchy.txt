@@ -284,6 +284,7 @@ Genres
                 Renaissance Music::genre
                 Contenance angloise::genre
                 Elizabethan Song::genre
+                Franco-Flemish School::genre
             Ricercar::genre
             Romanticism
                 Romanticism::genre
@@ -439,7 +440,9 @@ Genres
                 Liquid Drum and Bass
                     Liquid Drum and Bass::genre
                     Sambass::genre
-                Minimal Drum and Bass::genre
+                Minimal Drum and Bass
+                    Minimal Drum and Bass::genre
+                    Microfunk::genre
                 Neurofunk::genre
                 Techstep::genre
                 Trancestep::genre
@@ -705,6 +708,7 @@ Genres
                 Batida::genre
             Makina::genre
             Manyao::genre
+            Melodic Bass::genre
             Midtempo Bass::genre
             Moombahcore::genre
             Moombahton::genre
@@ -801,6 +805,7 @@ Genres
             Techno Bass
                 Techno Bass::genre
                 Car Audio Bass::genre
+        Wa Euro::genre
     Easy Listening
         Easy Listening::genre
         Cocktail Nation::genre
@@ -921,7 +926,9 @@ Genres
                 Liquid Drum and Bass
                     Liquid Drum and Bass::genre
                     Sambass::genre
-                Minimal Drum and Bass::genre
+                Minimal Drum and Bass
+                    Minimal Drum and Bass::genre
+                    Microfunk::genre
                 Neurofunk::genre
                 Techstep::genre
                 Trancestep::genre
@@ -1187,6 +1194,7 @@ Genres
                 Batida::genre
             Makina::genre
             Manyao::genre
+            Melodic Bass::genre
             Midtempo Bass::genre
             Moombahcore::genre
             Moombahton::genre
@@ -1701,7 +1709,6 @@ Genres
                         Scots Song::genre
                         Scottish Country Dance Music::genre
                         Shetland & Orkney Folk Music::genre
-                    Trás-os-Montes Folk Music::genre
                     Welsh Folk Music::genre
                 Dutch Folk Music::genre
                 English Folk Music
@@ -2053,6 +2060,7 @@ Genres
             Britcore::genre
             Gangsta Rap
                 Gangsta Rap::genre
+                Mafioso Rap::genre
                 Scam Rap::genre
             Horrorcore::genre
             Memphis Rap
@@ -2089,6 +2097,7 @@ Genres
                 Techno Bass::genre
                 Car Audio Bass::genre
         Mobb Music::genre
+        Motswako::genre
         Nerdcore Hip Hop::genre
         Nervous Music::genre
         Philly Club Rap::genre
@@ -2096,8 +2105,9 @@ Genres
         Pop Rap
             Pop Rap::genre
             Bop::genre
+            Frat Rap::genre
             Futuristic Swag::genre
-        Ratchet Music::genre
+        Ratchet::genre
         Snap::genre
         Trap
             Trap::genre
@@ -2474,6 +2484,7 @@ Genres
             Akishibu-kei::genre
             Denpa::genre
             J-Euro::genre
+            Wa Euro::genre
             Yakousei::genre
         Jazz Pop::genre
         K-Pop
@@ -2608,6 +2619,7 @@ Genres
             Xian Psych::genre
             Zamrock::genre
         Psychedelic Soul::genre
+        Psychsploitation::genre
         Sitarsploitation::genre
         Stoner Metal::genre
         Stoner Rock::genre
@@ -3037,6 +3049,7 @@ Genres
                     Mbaqanga::genre
                 Maskandi::genre
                 Mbube::genre
+                Motswako::genre
                 Shangaan Electro::genre
                 Shona Music
                     Shona Music::genre
@@ -4195,7 +4208,6 @@ Genres
                         Scots Song::genre
                         Scottish Country Dance Music::genre
                         Shetland & Orkney Folk Music::genre
-                    Trás-os-Montes Folk Music::genre
                     Welsh Folk Music::genre
                 Dutch Folk Music::genre
                 English Folk Music
@@ -4564,6 +4576,7 @@ Genres
                 Renaissance Music::genre
                 Contenance angloise::genre
                 Elizabethan Song::genre
+                Franco-Flemish School::genre
             Romanian Music
                 Romanian Music::genre
                 Muzică de mahala::genre
@@ -4850,6 +4863,7 @@ Genres
                         Polka peruana::genre
                         Tondero::genre
                         Vals criollo::genre
+                    Tunantada::genre
                 Polka paraguaya::genre
                 Porro::genre
                 Reggaetón
@@ -4965,6 +4979,7 @@ Genres
                     Métis Music::genre
                     Métis Fiddling::genre
                 Powwow Music::genre
+                Pueblo Music::genre
             Mesoamerican Music
                 Mesoamerican Music::genre
                 Maya Music::genre
@@ -5140,6 +5155,7 @@ Genres
                     Métis Music::genre
                     Métis Fiddling::genre
                 Powwow Music::genre
+                Pueblo Music::genre
             Louisiana Music
                 Louisiana Music::genre
                 Cajun Music
@@ -5514,6 +5530,7 @@ Genres
                     Polka peruana::genre
                     Tondero::genre
                     Vals criollo::genre
+                Tunantada::genre
             Polka paraguaya::genre
             Porro::genre
             Rioplatense Music
@@ -5806,7 +5823,6 @@ Genres
                         Scots Song::genre
                         Scottish Country Dance Music::genre
                         Shetland & Orkney Folk Music::genre
-                    Trás-os-Montes Folk Music::genre
                     Welsh Folk Music::genre
                 Dutch Folk Music::genre
                 English Folk Music
@@ -6660,11 +6676,6 @@ Genres
                 Marchinha::genre
                 Samba-enredo::genre
                 Toada de Boi::genre
-            Hymns
-                Hymns::genre
-                Bhajan::genre
-                Lauda::genre
-                Sacred Harp Singing::genre
             Musical Parody::genre
             Novelty::genre
             Orchestral Music
@@ -6724,6 +6735,11 @@ Genres
                 Rain Sounds::genre
             Radio Broadcast Recordings::genre
         Hanmai::genre
+        Hymns
+            Hymns::genre
+            Bhajan::genre
+            Lauda::genre
+            Sacred Harp Singing::genre
         Mantra
             Mantra::genre
             Tibetan Bhuddist Chant::genre
@@ -6805,8 +6821,11 @@ Scenes & Movements
     East Coast Hip Hop::genre
     Emo Revival::genre
     English Underground::genre
+    Epadunk::genre
     Filk::genre
+    Florida Fast Music::genre
     Fort Thunder Scene::genre
+    Franco-Flemish School::genre
     Free Noise::genre
     French Hip Hop::genre
     Futurism::genre
@@ -6829,6 +6848,7 @@ Scenes & Movements
         Akishibu-kei::genre
         Denpa::genre
         J-Euro::genre
+        Wa Euro::genre
         Yakousei::genre
     Japanese Hardcore::genre
     Japanese Hip Hop::genre
@@ -6858,6 +6878,7 @@ Scenes & Movements
     Mod
         Mod::genre
         Mod Revival::genre
+    Motswako::genre
     Movida madrileña::genre
     Nederbeat::genre
     Nerdcore Hip Hop::genre
@@ -6897,7 +6918,9 @@ Scenes & Movements
     Pop Kreatif::genre
     Pop Yeh-Yeh::genre
     Positive Punk::genre
+    Progg::genre
     Psichedelia occulta italiana::genre
+    Psychsploitation::genre
     Q-Pop::genre
     Queercore::genre
     RABM::genre
