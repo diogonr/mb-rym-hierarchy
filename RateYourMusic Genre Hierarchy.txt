@@ -216,6 +216,7 @@ Genres
                     Old Roman Chant::genre
             Modern Classical
                 Modern Classical::genre
+                American Gamelan::genre
                 Expressionism::genre
                 Futurism::genre
                 Impressionism::genre
@@ -476,7 +477,9 @@ Genres
                     Dark Electro::genre
                     Aggrotech::genre
                 Futurepop::genre
-                New Beat::genre
+                New Beat
+                    New Beat::genre
+                    Hard Beat::genre
             Electro::genre
             Electro latino::genre
             Electro Swing::genre
@@ -962,7 +965,9 @@ Genres
                     Dark Electro::genre
                     Aggrotech::genre
                 Futurepop::genre
-                New Beat::genre
+                New Beat
+                    New Beat::genre
+                    Hard Beat::genre
             Electro::genre
             Electro latino::genre
             Electro Swing::genre
@@ -2176,7 +2181,9 @@ Genres
                     Dark Electro::genre
                     Aggrotech::genre
                 Futurepop::genre
-                New Beat::genre
+                New Beat
+                    New Beat::genre
+                    Hard Beat::genre
             Electro-Industrial
                 Electro-Industrial::genre
                 Dark Electro
@@ -3892,6 +3899,7 @@ Genres
                 Chutney
                     Chutney::genre
                     Chutney Soca::genre
+                Tassa::genre
             Jamaican Music
                 Jamaican Music::genre
                 Dancehall
@@ -4856,6 +4864,7 @@ Genres
                         Chicha::genre
                         Cumbia amazónica::genre
                         Cumbia norteña peruana::genre
+                    Huaylarsh::genre
                     Música criolla peruana
                         Música criolla peruana::genre
                         Festejo::genre
@@ -4960,6 +4969,7 @@ Genres
                 Indigenous Andean Music::genre
                 Baguala::genre
                 Harawi::genre
+                Huaylarsh::genre
                 Huayno
                     Huayno::genre
                     Bolivian Huayño::genre
@@ -5501,6 +5511,7 @@ Genres
                 Indigenous Andean Music::genre
                 Baguala::genre
                 Harawi::genre
+                Huaylarsh::genre
                 Huayno
                     Huayno::genre
                     Bolivian Huayño::genre
@@ -5523,6 +5534,7 @@ Genres
                     Chicha::genre
                     Cumbia amazónica::genre
                     Cumbia norteña peruana::genre
+                Huaylarsh::genre
                 Música criolla peruana
                     Música criolla peruana::genre
                     Festejo::genre
@@ -6956,6 +6968,7 @@ Scenes & Movements
     Sovietwave::genre
     Straight Edge
         Straight Edge::genre
+        Krishnacore::genre
         Vegan Straight Edge
             Vegan Straight Edge::genre
             Hardline::genre
@@ -6990,4 +7003,5 @@ Scenes & Movements
         YTPMV::genre
         otoMAD::genre
     Yugoslav New Wave::genre
+    Zamrock::genre
     Zimdancehall::genre
