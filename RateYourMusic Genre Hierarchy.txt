@@ -443,6 +443,7 @@ Genres
                     Sambass::genre
                 Minimal Drum and Bass
                     Minimal Drum and Bass::genre
+                    Autonomic::genre
                     Microfunk::genre
                 Neurofunk::genre
                 Techstep::genre
@@ -808,7 +809,9 @@ Genres
             Techno Bass
                 Techno Bass::genre
                 Car Audio Bass::genre
-        Wa Euro::genre
+        Wa Euro
+            Wa Euro::genre
+            J-Euro::genre
     Easy Listening
         Easy Listening::genre
         Cocktail Nation::genre
@@ -931,6 +934,7 @@ Genres
                     Sambass::genre
                 Minimal Drum and Bass
                     Minimal Drum and Bass::genre
+                    Autonomic::genre
                     Microfunk::genre
                 Neurofunk::genre
                 Techstep::genre
@@ -2066,6 +2070,7 @@ Genres
             Gangsta Rap
                 Gangsta Rap::genre
                 Mafioso Rap::genre
+                Road Rap::genre
                 Scam Rap::genre
             Horrorcore::genre
             Memphis Rap
@@ -2490,8 +2495,9 @@ Genres
             J-Pop::genre
             Akishibu-kei::genre
             Denpa::genre
-            J-Euro::genre
-            Wa Euro::genre
+            Wa Euro
+                Wa Euro::genre
+                J-Euro::genre
             Yakousei::genre
         Jazz Pop::genre
         K-Pop
@@ -3953,6 +3959,7 @@ Genres
             Vallenato::genre
         Central American Music
             Central American Music::genre
+            Palo de mayo::genre
             Punta::genre
             Tamborera::genre
             Tamborito::genre
@@ -4557,6 +4564,7 @@ Genres
                         Swedish Folk Music::genre
                         Hambo::genre
                 Nordic Folk Rock::genre
+                Rautalanka::genre
                 Visa::genre
             Nòva cançon::genre
             Opéra-comique::genre
@@ -4998,7 +5006,9 @@ Genres
         Islamic Religious Music & Recitation
             Islamic Religious Music & Recitation::genre
             Ginan::genre
-            Maddahi::genre
+            Maddahi
+                Maddahi::genre
+                Shoor::genre
             Mataali::genre
             Nasheed::genre
             Rapai dabõih::genre
@@ -6832,7 +6842,9 @@ Scenes & Movements
     Düsseldorf School::genre
     East Coast Hip Hop::genre
     Emo Revival::genre
-    English Underground::genre
+    English Underground
+        English Underground::genre
+        Ladbroke Grove Scene::genre
     Epadunk::genre
     Filk::genre
     Florida Fast Music::genre
@@ -6859,8 +6871,9 @@ Scenes & Movements
         J-Pop::genre
         Akishibu-kei::genre
         Denpa::genre
-        J-Euro::genre
-        Wa Euro::genre
+        Wa Euro
+            Wa Euro::genre
+            J-Euro::genre
         Yakousei::genre
     Japanese Hardcore::genre
     Japanese Hip Hop::genre
@@ -6910,6 +6923,7 @@ Scenes & Movements
     No Wave::genre
     NOLA Sludge::genre
     Northern Soul::genre
+    Nova srpska scena::genre
     Nova vanguarda paulistana::genre
     Novaya scena::genre
     Novo Dub::genre
@@ -6939,6 +6953,7 @@ Scenes & Movements
     Red Dirt::genre
     Revolution Summer::genre
     Riot Grrrl::genre
+    Road Rap::genre
     Rock barrial::genre
     Rock in Opposition::genre
     Rock radical vasco::genre
