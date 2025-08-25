@@ -174,7 +174,9 @@ Genres
             Cantata::genre
             Canzona::genre
             Capriccio::genre
-            Chamber Music::genre
+            Chamber Music
+                Chamber Music::genre
+                String Quartet::genre
             Character Piece::genre
             Choral
                 Choral::genre
@@ -189,6 +191,7 @@ Genres
                 Spaghetti Western::genre
             Classical Period::genre
             Divertissement::genre
+            English Pastoral School::genre
             Étude::genre
             Fantasia::genre
             Fugue::genre
@@ -1914,6 +1917,7 @@ Genres
                 Música criolla peruana
                     Música criolla peruana::genre
                     Festejo::genre
+                    Landó::genre
                     Marinera::genre
                     Polka peruana::genre
                     Tondero::genre
@@ -2052,6 +2056,7 @@ Genres
         Detroit Sound
             Detroit Sound::genre
             Flint Sound::genre
+            Philly Drill::genre
         Digicore::genre
         Dirty South::genre
         Disco Rap::genre
@@ -3284,6 +3289,7 @@ Genres
                         Guangdong yinyue::genre
                         Jiangnan sizhu::genre
                         Nanyin::genre
+                    Taoist Ritual Music::genre
                     Xinyao::genre
                     Zhongguo feng::genre
                 East Asian Classical Music
@@ -4079,12 +4085,14 @@ Genres
                 British Dance Band::genre
                 British Folk Rock::genre
                 Change Ringing::genre
+                Concertina Band::genre
                 Contenance angloise::genre
                 English Folk Music
                     English Folk Music::genre
                     Cornish Folk Music::genre
                     Northumbrian Folk Music::genre
                     Scrumpy and Western::genre
+                English Pastoral School::genre
                 Music Hall::genre
                 Sarum Chant::genre
                 Scottish Folk Music
@@ -4781,6 +4789,7 @@ Genres
                     Música criolla peruana
                         Música criolla peruana::genre
                         Festejo::genre
+                        Landó::genre
                         Marinera::genre
                         Polka peruana::genre
                         Tondero::genre
@@ -4876,6 +4885,7 @@ Genres
                     Música criolla peruana
                         Música criolla peruana::genre
                         Festejo::genre
+                        Landó::genre
                         Marinera::genre
                         Polka peruana::genre
                         Tondero::genre
@@ -5548,6 +5558,7 @@ Genres
                 Música criolla peruana
                     Música criolla peruana::genre
                     Festejo::genre
+                    Landó::genre
                     Marinera::genre
                     Polka peruana::genre
                     Tondero::genre
@@ -6041,6 +6052,7 @@ Genres
                 Música criolla peruana
                     Música criolla peruana::genre
                     Festejo::genre
+                    Landó::genre
                     Marinera::genre
                     Polka peruana::genre
                     Tondero::genre
@@ -6840,7 +6852,9 @@ Scenes & Movements
         Touhou Music::genre
     Dunedin Sound::genre
     Düsseldorf School::genre
-    East Coast Hip Hop::genre
+    East Coast Hip Hop
+        East Coast Hip Hop::genre
+        Brooklyn Drill::genre
     Emo Revival::genre
     English Underground
         English Underground::genre
@@ -6986,6 +7000,7 @@ Scenes & Movements
         Krishnacore::genre
         Vegan Straight Edge
             Vegan Straight Edge::genre
+            H8000::genre
             Hardline::genre
     Swing Revival::genre
     T-Pop::genre
@@ -7012,6 +7027,7 @@ Scenes & Movements
     Voëlvry Movement::genre
     West Coast Hip Hop::genre
     Windmill Scene::genre
+    Wizard Rock::genre
     Women's Music Movement::genre
     Yass::genre
     YTPMV
