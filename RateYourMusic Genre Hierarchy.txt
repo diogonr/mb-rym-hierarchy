@@ -276,6 +276,7 @@ Genres
                     Concerto grosso::genre
                     Sinfonia concertante::genre
                 Orchestral Song::genre
+                Symphonic Mugham::genre
                 Symphony
                     Symphony::genre
                     Choral Symphony::genre
@@ -1606,6 +1607,7 @@ Genres
                     Chinese Folk Music::genre
                     Chaozhou xianshi::genre
                     Han Folk Music::genre
+                    Haozi::genre
                     Jiangnan sizhu::genre
                     Shan'ge::genre
                 Indigenous Taiwanese Music::genre
@@ -2019,12 +2021,13 @@ Genres
                     Turkish Black Sea Region Folk Music::genre
                     Uzun Hava::genre
                     Zeybek::genre
-            Work Songs
-                Work Songs::genre
+            Work Song
+                Work Song::genre
                 Aboio
                     Aboio::genre
                     Aboio cantado::genre
                 Field Hollers::genre
+                Haozi::genre
                 Òrain luaidh::genre
                 Sea Shanty::genre
                 Shan'ge::genre
@@ -3267,6 +3270,7 @@ Genres
                         Chinese Folk Music::genre
                         Chaozhou xianshi::genre
                         Han Folk Music::genre
+                        Haozi::genre
                         Jiangnan sizhu::genre
                         Shan'ge::genre
                     Chinese Opera
@@ -3333,6 +3337,7 @@ Genres
                         Chinese Folk Music::genre
                         Chaozhou xianshi::genre
                         Han Folk Music::genre
+                        Haozi::genre
                         Jiangnan sizhu::genre
                         Shan'ge::genre
                     Indigenous Taiwanese Music::genre
@@ -3528,6 +3533,7 @@ Genres
                     Hill Tribe Music::genre
                     Hmong Folk Music::genre
                     Hmong Pop::genre
+                    Lisu Music::genre
                 Indonesian Music
                     Indonesian Music::genre
                     Balinese Music
@@ -3722,6 +3728,7 @@ Genres
                     Azerbaijani Mugham::genre
                     Jazz Mugham::genre
                     Meyxana::genre
+                    Symphonic Mugham::genre
                 Caucasian Music
                     Caucasian Music::genre
                     Caucasian Folk Music
@@ -3762,6 +3769,7 @@ Genres
                     Muzikat dika'on::genre
                 Persian Music
                     Persian Music::genre
+                    Achomi Music::genre
                     Bandari::genre
                     Koche bazari::genre
                     Persian Classical Music::genre
@@ -3965,6 +3973,7 @@ Genres
             Vallenato::genre
         Central American Music
             Central American Music::genre
+            Brukdown::genre
             Palo de mayo::genre
             Punta::genre
             Tamborera::genre
@@ -5741,6 +5750,7 @@ Genres
                     Chinese Folk Music::genre
                     Chaozhou xianshi::genre
                     Han Folk Music::genre
+                    Haozi::genre
                     Jiangnan sizhu::genre
                     Shan'ge::genre
                 Indigenous Taiwanese Music::genre
@@ -6154,12 +6164,13 @@ Genres
                     Turkish Black Sea Region Folk Music::genre
                     Uzun Hava::genre
                     Zeybek::genre
-            Work Songs
-                Work Songs::genre
+            Work Song
+                Work Song::genre
                 Aboio
                     Aboio::genre
                     Aboio cantado::genre
                 Field Hollers::genre
+                Haozi::genre
                 Òrain luaidh::genre
                 Sea Shanty::genre
                 Shan'ge::genre
@@ -6721,6 +6732,7 @@ Genres
                     Concerto grosso::genre
                     Sinfonia concertante::genre
                 Orchestral Song::genre
+                Symphonic Mugham::genre
                 Symphony
                     Symphony::genre
                     Choral Symphony::genre
