@@ -546,6 +546,7 @@ Genres
                     Hardstyle::genre
                     Dubstyle::genre
                     Euphoric Hardstyle::genre
+                    Nustyle::genre
                     Psystyle::genre
                     Rawstyle
                         Rawstyle::genre
@@ -1037,6 +1038,7 @@ Genres
                     Hardstyle::genre
                     Dubstyle::genre
                     Euphoric Hardstyle::genre
+                    Nustyle::genre
                     Psystyle::genre
                     Rawstyle
                         Rawstyle::genre
@@ -2640,8 +2642,9 @@ Genres
             Xian Psych::genre
             Zamrock::genre
         Psychedelic Soul::genre
-        Psychsploitation::genre
-        Sitarsploitation::genre
+        Psychsploitation
+            Psychsploitation::genre
+            Sitarsploitation::genre
         Stoner Metal::genre
         Stoner Rock::genre
         Tropicália::genre
@@ -2816,6 +2819,7 @@ Genres
             British Rhythm & Blues::genre
             Swamp Pop::genre
             Twist::genre
+            West Side Sound::genre
         Soul
             Soul::genre
             Chicago Soul::genre
@@ -3746,6 +3750,7 @@ Genres
                     Karachay-Balkarian Music::genre
                     Rabiz::genre
                 Dabke::genre
+                Gilaki Music::genre
                 Iraqi Maqam::genre
                 Khaliji Music
                     Khaliji Music::genre
@@ -3974,6 +3979,7 @@ Genres
         Central American Music
             Central American Music::genre
             Brukdown::genre
+            Garifuna Folk Music::genre
             Palo de mayo::genre
             Punta::genre
             Tamborera::genre
@@ -5173,7 +5179,9 @@ Genres
                         Bluegrass Gospel::genre
                 Western::genre
                 Western Swing::genre
-            Country Rock::genre
+            Country Rock
+                Country Rock::genre
+                Cosmic Country::genre
             Cowboy Poetry::genre
             Greenlandic Music
                 Greenlandic Music::genre
@@ -6251,7 +6259,9 @@ Genres
             Christian Rock::genre
             Xian Psych::genre
         Comedy Rock::genre
-        Country Rock::genre
+        Country Rock
+            Country Rock::genre
+            Cosmic Country::genre
         Cowpunk::genre
         Deutschrock::genre
         Emo
@@ -6884,6 +6894,7 @@ Scenes & Movements
     Greenwich Village Scene::genre
     Group Sounds::genre
     Hamburger Schule::genre
+    Harlem Renaissance::genre
     Hauntology::genre
     Hellenic Black Metal::genre
     Hip-hopolo::genre
@@ -6936,6 +6947,7 @@ Scenes & Movements
     Nerdcore Techno::genre
     Neue Deutsche Welle::genre
     Neue Volksmusik::genre
+    New Brunswick Basement Scene::genre
     New London Jazz::genre
     New Music::genre
     New Orleans Blues::genre
@@ -6972,7 +6984,9 @@ Scenes & Movements
     Positive Punk::genre
     Progg::genre
     Psichedelia occulta italiana::genre
-    Psychsploitation::genre
+    Psychsploitation
+        Psychsploitation::genre
+        Sitarsploitation::genre
     Q-Pop::genre
     Queercore::genre
     RABM::genre
@@ -7038,6 +7052,7 @@ Scenes & Movements
     Vocaloid Scene::genre
     Voëlvry Movement::genre
     West Coast Hip Hop::genre
+    West Side Sound::genre
     Windmill Scene::genre
     Wizard Rock::genre
     Women's Music Movement::genre
