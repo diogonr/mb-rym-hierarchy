@@ -177,7 +177,9 @@ Genres
             Chamber Music
                 Chamber Music::genre
                 String Quartet::genre
-            Character Piece::genre
+            Character Piece
+                Character Piece::genre
+                Nocturne::genre
             Choral
                 Choral::genre
                 Choral Concerto::genre
@@ -242,7 +244,6 @@ Genres
                 Stochastic Music::genre
             Motet::genre
             Neoclassicism::genre
-            Nocturne::genre
             Opera
                 Opera::genre
                 Ballad Opera::genre
@@ -294,6 +295,7 @@ Genres
             Romanticism
                 Romanticism::genre
                 Grand opéra::genre
+                New German School::genre
                 Romantische Oper::genre
             Serenade::genre
             Sonata::genre
@@ -545,6 +547,7 @@ Genres
                 Hardstyle
                     Hardstyle::genre
                     Dubstyle::genre
+                    Early Hardstyle::genre
                     Euphoric Hardstyle::genre
                     Nustyle::genre
                     Psystyle::genre
@@ -1037,6 +1040,7 @@ Genres
                 Hardstyle
                     Hardstyle::genre
                     Dubstyle::genre
+                    Early Hardstyle::genre
                     Euphoric Hardstyle::genre
                     Nustyle::genre
                     Psystyle::genre
@@ -6773,7 +6777,6 @@ Genres
                     Film Soundtrack::genre
                     Film Score::genre
                     Filmi::genre
-                Jingles::genre
                 Library Music::genre
                 Television Music::genre
                 Video Game Music::genre
@@ -6796,6 +6799,7 @@ Genres
             Bhajan::genre
             Lauda::genre
             Sacred Harp Singing::genre
+        Jingles::genre
         Mantra
             Mantra::genre
             Tibetan Bhuddist Chant::genre
@@ -6824,6 +6828,7 @@ Genres
             Binaural Beats::genre
             Broadband Noise::genre
         Toypop::genre
+        Worldbeat::genre
 Scenes & Movements
     Afrofuturism::genre
     Alté::genre
@@ -7004,9 +7009,12 @@ Scenes & Movements
     Romanticism
         Romanticism::genre
         Grand opéra::genre
+        New German School::genre
         Romantische Oper::genre
     Russemusikk::genre
-    San Francisco Sound::genre
+    San Francisco Sound
+        San Francisco Sound::genre
+        Haight-Ashbury Scene::genre
     Scottish Folk Revival::genre
     Seapunk::genre
     Second British Folk Revival::genre
