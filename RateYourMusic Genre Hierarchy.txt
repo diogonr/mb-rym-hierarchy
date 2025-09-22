@@ -1457,6 +1457,7 @@ Genres
             Indie Folk
                 Indie Folk::genre
                 Stomp and Holler::genre
+            Loner Folk::genre
             Neofolk
                 Neofolk::genre
                 Dark Folk::genre
@@ -1908,6 +1909,7 @@ Genres
                     Huayno::genre
                     Bolivian Huayño::genre
                     Carnavalito::genre
+                    Chimaychi::genre
                 Jibaro::genre
                 Joropo::genre
                 Malagueña venezolana::genre
@@ -2069,6 +2071,19 @@ Genres
         Digicore::genre
         Dirty South::genre
         Disco Rap::genre
+        Drill
+            Drill::genre
+            Chicago Drill
+                Chicago Drill::genre
+                Bop::genre
+            Free Car Music::genre
+            Jersey Drill::genre
+            New York Drill
+                New York Drill::genre
+                Sample Drill::genre
+                Sexy Drill::genre
+            Philly Drill::genre
+            UK Drill::genre
         Drumless::genre
         Emo Rap::genre
         Experimental Hip Hop
@@ -2135,19 +2150,6 @@ Genres
         Snap::genre
         Trap
             Trap::genre
-            Drill
-                Drill::genre
-                Chicago Drill
-                    Chicago Drill::genre
-                    Bop::genre
-                Free Car Music::genre
-                Jersey Drill::genre
-                New York Drill
-                    New York Drill::genre
-                    Sample Drill::genre
-                    Sexy Drill::genre
-                Philly Drill::genre
-                UK Drill::genre
             Futuristic Swag::genre
             New Jazz::genre
             No Melody::genre
@@ -2158,6 +2160,7 @@ Genres
                 PluggnB
                     PluggnB::genre
                     Asian Rock::genre
+                Terror Plugg::genre
             Rage::genre
             Rare Phonk::genre
             Regalia::genre
@@ -4675,6 +4678,7 @@ Genres
                 Música cebolla::genre
             Hispanic American Music
                 Hispanic American Music::genre
+                Afro-Cuban Jazz::genre
                 Argentine Music
                     Argentine Music::genre
                     Cuarteto::genre
@@ -4791,6 +4795,7 @@ Genres
                         Huayno::genre
                         Bolivian Huayño::genre
                         Carnavalito::genre
+                        Chimaychi::genre
                     Jibaro::genre
                     Joropo::genre
                     Malagueña venezolana::genre
@@ -4895,6 +4900,7 @@ Genres
                 Pasillo::genre
                 Peruvian Music
                     Peruvian Music::genre
+                    Chimaychi::genre
                     Cumbia peruana
                         Cumbia peruana::genre
                         Chicha::genre
@@ -5011,6 +5017,7 @@ Genres
                     Huayno::genre
                     Bolivian Huayño::genre
                     Carnavalito::genre
+                    Chimaychi::genre
                 Morenada::genre
                 Tonada potosina::genre
             Indigenous North American Music
@@ -5557,6 +5564,7 @@ Genres
                     Huayno::genre
                     Bolivian Huayño::genre
                     Carnavalito::genre
+                    Chimaychi::genre
                 Morenada::genre
                 Tonada potosina::genre
             Joropo::genre
@@ -5570,6 +5578,7 @@ Genres
             Payada::genre
             Peruvian Music
                 Peruvian Music::genre
+                Chimaychi::genre
                 Cumbia peruana
                     Cumbia peruana::genre
                     Chicha::genre
@@ -6057,6 +6066,7 @@ Genres
                     Huayno::genre
                     Bolivian Huayño::genre
                     Carnavalito::genre
+                    Chimaychi::genre
                 Jibaro::genre
                 Joropo::genre
                 Malagueña venezolana::genre
@@ -6837,6 +6847,7 @@ Scenes & Movements
     Aussie Pub Rock::genre
     Beach Music::genre
     Bérite Club::genre
+    Bernese Dialect Scene::genre
     Bloghouse::genre
     Bosstown Sound::genre
     Bristol Sound::genre
@@ -6893,6 +6904,7 @@ Scenes & Movements
     Franco-Flemish School::genre
     Free Noise::genre
     French Hip Hop::genre
+    Friese bries::genre
     Futurism::genre
     Gothenburg Sound::genre
     Grebo::genre
@@ -6957,6 +6969,7 @@ Scenes & Movements
     New Music::genre
     New Orleans Blues::genre
     New Partisans::genre
+    New Pop::genre
     New Primitivism::genre
     New Romantic::genre
     New Tone::genre
@@ -7038,6 +7051,7 @@ Scenes & Movements
             Hardline::genre
     Swing Revival::genre
     T-Pop::genre
+    Taqwacore::genre
     Teutonic Thrash Metal::genre
     Texas Psychedelia Scene::genre
     The Wave::genre
