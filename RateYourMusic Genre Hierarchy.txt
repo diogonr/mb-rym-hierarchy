@@ -2150,6 +2150,10 @@ Genres
         Snap::genre
         Trap
             Trap::genre
+            Chicago Drill
+                Chicago Drill::genre
+                Bop::genre
+            Free Car Music::genre
             Futuristic Swag::genre
             New Jazz::genre
             No Melody::genre
@@ -6851,6 +6855,7 @@ Scenes & Movements
     Bloghouse::genre
     Bosstown Sound::genre
     Bristol Sound::genre
+    British Trad Jazz::genre
     Britpop::genre
     Brno Alternative Scene::genre
     Brony Music::genre
@@ -6892,6 +6897,7 @@ Scenes & Movements
     Düsseldorf School::genre
     East Coast Hip Hop
         East Coast Hip Hop::genre
+        Bronx Drill::genre
         Brooklyn Drill::genre
     Emo Revival::genre
     English Underground
@@ -7031,6 +7037,7 @@ Scenes & Movements
     Scottish Folk Revival::genre
     Seapunk::genre
     Second British Folk Revival::genre
+    Second Viennese School::genre
     Shibuya-kei
         Shibuya-kei::genre
         Akishibu-kei::genre
@@ -7074,6 +7081,7 @@ Scenes & Movements
     Vocaloid Scene::genre
     Voëlvry Movement::genre
     West Coast Hip Hop::genre
+    West Coast Sound of Holland::genre
     West Side Sound::genre
     Windmill Scene::genre
     Wizard Rock::genre
