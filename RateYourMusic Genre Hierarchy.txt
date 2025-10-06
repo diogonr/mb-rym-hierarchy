@@ -433,6 +433,7 @@ Genres
                     Darkstep::genre
                     Crossbreed::genre
                     Skullstep::genre
+                Deep Drum and Bass::genre
                 Drumfunk::genre
                 Drumstep::genre
                 Dubwise Drum and Bass::genre
@@ -926,6 +927,7 @@ Genres
                     Darkstep::genre
                     Crossbreed::genre
                     Skullstep::genre
+                Deep Drum and Bass::genre
                 Drumfunk::genre
                 Drumstep::genre
                 Dubwise Drum and Bass::genre
@@ -1705,7 +1707,6 @@ Genres
                 Catalan Folk Music
                     Catalan Folk Music::genre
                     Sardana::genre
-                    Valencian Folk Music::genre
                 Celtic Folk Music
                     Celtic Folk Music::genre
                     Breton Celtic Folk Music
@@ -2749,6 +2750,7 @@ Genres
                 Dance-Punk Revival::genre
         Proto-Punk::genre
         Punk Blues::genre
+        Punk Poetry::genre
         Punk Rock
             Punk Rock::genre
             Anarcho-Punk::genre
@@ -3572,6 +3574,7 @@ Genres
                     Gambang kromong::genre
                     Javanese Music
                         Javanese Music::genre
+                        Bantengan::genre
                         Campursari::genre
                         Javanese Gamelan
                             Javanese Gamelan::genre
@@ -3840,6 +3843,15 @@ Genres
                 Malagasy Folk Music::genre
                 Salegy::genre
                 Tsapiky::genre
+            Malay Music
+                Malay Music::genre
+                Dikir barat::genre
+                Dondang sayang::genre
+                Malay Classical Music
+                    Malay Classical Music::genre
+                    Malay Gamelan::genre
+                Malay Folk Music::genre
+                Pop Yeh-Yeh::genre
             Pakacaping Music::genre
         Caribbean Music
             Caribbean Music::genre
@@ -3990,9 +4002,11 @@ Genres
         Central American Music
             Central American Music::genre
             Brukdown::genre
+            Cumbia salvadoreña::genre
             Garifuna Folk Music::genre
             Palo de mayo::genre
             Punta::genre
+            Purísima::genre
             Tamborera::genre
             Tamborito::genre
             Xuc::genre
@@ -4232,7 +4246,6 @@ Genres
                 Catalan Folk Music
                     Catalan Folk Music::genre
                     Sardana::genre
-                    Valencian Folk Music::genre
                 Celtic Folk Music
                     Celtic Folk Music::genre
                     Breton Celtic Folk Music
@@ -4465,7 +4478,6 @@ Genres
                 Catalan Folk Music
                     Catalan Folk Music::genre
                     Sardana::genre
-                    Valencian Folk Music::genre
                 Euskal kantagintza berria::genre
                 Nova cançó::genre
                 Portuguese Music
@@ -4778,6 +4790,7 @@ Genres
                         Cumbia amazónica::genre
                         Cumbia norteña peruana::genre
                     Cumbia pop::genre
+                    Cumbia salvadoreña::genre
                     Digital Cumbia::genre
                     Merecumbé::genre
                 Currulao::genre
@@ -4922,6 +4935,7 @@ Genres
                     Tunantada::genre
                 Polka paraguaya::genre
                 Porro::genre
+                Purísima::genre
                 Reggaetón
                     Reggaetón::genre
                     Bachatón::genre
@@ -4961,6 +4975,14 @@ Genres
             Murga
                 Murga::genre
                 Murga uruguaya::genre
+            Nueva canción
+                Nueva canción::genre
+                Nueva canción española::genre
+                Nueva canción latinoamericana
+                    Nueva canción latinoamericana::genre
+                    Nueva canción chilena::genre
+                    Nueva trova::genre
+                    Nuevo Cancionero::genre
             Philippine Rondalla::genre
             Romance::genre
             Spanish Music
@@ -5866,7 +5888,6 @@ Genres
                 Catalan Folk Music
                     Catalan Folk Music::genre
                     Sardana::genre
-                    Valencian Folk Music::genre
                 Celtic Folk Music
                     Celtic Folk Music::genre
                     Breton Celtic Folk Music
@@ -6665,7 +6686,18 @@ Genres
         Música de intervenção::genre
         Nova cançó::genre
         Nòva cançon::genre
+        Nueva canción
+            Nueva canción::genre
+            Nueva canción española::genre
+            Nueva canción latinoamericana
+                Nueva canción latinoamericana::genre
+                Nueva canción chilena::genre
+                Nueva trova::genre
+                Nuevo Cancionero::genre
         Poezja śpiewana::genre
+        Trova
+            Trova::genre
+            Nueva trova::genre
     Spoken Word
         Spoken Word::genre
         Fairy Tales::genre
@@ -6679,6 +6711,7 @@ Genres
             Cowboy Poetry::genre
             Dub Poetry::genre
             Jazz Poetry::genre
+            Punk Poetry::genre
             Slam Poetry::genre
             Sound Poetry::genre
         Radio Drama::genre
@@ -6812,6 +6845,7 @@ Genres
             Hymns::genre
             Bhajan::genre
             Lauda::genre
+            Purísima::genre
             Sacred Harp Singing::genre
         Jingles::genre
         Mantra
@@ -6845,6 +6879,7 @@ Genres
         Worldbeat::genre
 Scenes & Movements
     Afrofuturism::genre
+    Akron Sound::genre
     Alté::genre
     Anarcho-Punk::genre
     Asian Underground::genre
