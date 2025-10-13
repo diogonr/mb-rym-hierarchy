@@ -2563,6 +2563,7 @@ Genres
                 Jovem Guarda::genre
                 Merseybeat::genre
                 Nederbeat::genre
+            Beat Rock::genre
             Big Music::genre
             Britpop::genre
             Jangle Pop
@@ -6519,6 +6520,7 @@ Genres
         New Wave
             New Wave::genre
             2 Tone::genre
+            Beat Rock::genre
             Mod Revival::genre
         Noise Rock
             Noise Rock::genre
@@ -6533,6 +6535,7 @@ Genres
                 Jovem Guarda::genre
                 Merseybeat::genre
                 Nederbeat::genre
+            Beat Rock::genre
             Big Music::genre
             Britpop::genre
             Jangle Pop
@@ -6890,6 +6893,7 @@ Scenes & Movements
     Bloghouse::genre
     Bosstown Sound::genre
     Bristol Sound::genre
+    British Rhythm & Blues::genre
     British Trad Jazz::genre
     Britpop::genre
     Brno Alternative Scene::genre
@@ -6920,6 +6924,7 @@ Scenes & Movements
     Clube da esquina::genre
     Cocktail Nation::genre
     Dariacore::genre
+    Darmstadt School::genre
     Dek Bass::genre
     Demoscene::genre
     Deutschrock::genre
@@ -7000,6 +7005,7 @@ Scenes & Movements
         Mod Revival::genre
     Motswako::genre
     Movida madrileña::genre
+    Nardcore::genre
     Nederbeat::genre
     Nerdcore Hip Hop::genre
     Nerdcore Techno::genre
@@ -7037,6 +7043,7 @@ Scenes & Movements
     Onkyo::genre
     OPM::genre
     P-Pop::genre
+    Paisley Underground::genre
     Palm Desert Scene::genre
     Pop Kreatif::genre
     Pop Yeh-Yeh::genre
