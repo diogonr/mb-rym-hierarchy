@@ -473,6 +473,7 @@ Genres
                 Riddim
                     Riddim::genre
                     Future Riddim::genre
+                    Liquid Riddim::genre
                 Tearout::genre
             East Coast Club
                 East Coast Club::genre
@@ -967,6 +968,7 @@ Genres
                 Riddim
                     Riddim::genre
                     Future Riddim::genre
+                    Liquid Riddim::genre
                 Tearout::genre
             East Coast Club
                 East Coast Club::genre
@@ -2867,7 +2869,9 @@ Genres
             Digital Dancehall::genre
             Dub::genre
             Lovers Rock::genre
-            Pacific Reggae::genre
+            Pacific Reggae
+                Pacific Reggae::genre
+                Jawaiian::genre
             Pop Reggae::genre
             Roots Reggae
                 Roots Reggae::genre
@@ -3969,7 +3973,9 @@ Genres
                     Digital Dancehall::genre
                     Dub::genre
                     Lovers Rock::genre
-                    Pacific Reggae::genre
+                    Pacific Reggae
+                        Pacific Reggae::genre
+                        Jawaiian::genre
                     Pop Reggae::genre
                     Roots Reggae
                         Roots Reggae::genre
@@ -5298,7 +5304,9 @@ Genres
             Micronesian Music
                 Micronesian Music::genre
                 Kantan Chamorrita::genre
-            Pacific Reggae::genre
+            Pacific Reggae
+                Pacific Reggae::genre
+                Jawaiian::genre
             Polynesian Music
                 Polynesian Music::genre
                 Fijian Music
@@ -5307,6 +5315,7 @@ Genres
                 Hawaiian Music
                     Hawaiian Music::genre
                     Hapa haole::genre
+                    Jawaiian::genre
                     Slack-Key Guitar::genre
                 Himene tarava::genre
                 Māori Music::genre
@@ -6819,7 +6828,6 @@ Genres
                 Sutartinės::genre
                 Tosk Polyphony::genre
                 Trallalero::genre
-            Rock Opera::genre
             Satire::genre
             Soundtrack
                 Soundtrack::genre
