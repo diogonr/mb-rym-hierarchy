@@ -1634,6 +1634,7 @@ Genres
                     Tsugaru Shamisen::genre
                 Korean Folk Music
                     Korean Folk Music::genre
+                    Muak::genre
                     Pansori::genre
                     Pungmul::genre
                     Sanjo::genre
@@ -1647,6 +1648,7 @@ Genres
                 European Folk Music::genre
                 Alpine Folk Music
                     Alpine Folk Music::genre
+                    Canto degli Alpini::genre
                     Ländler::genre
                     Narodno zabavna glasba::genre
                     Naturjodel::genre
@@ -1771,6 +1773,7 @@ Genres
                 Istrian Folk Music::genre
                 Italian Folk Music
                     Italian Folk Music::genre
+                    Canto degli Alpini::genre
                     Canzone napoletana::genre
                     Liscio::genre
                     Sardinian Folk Music
@@ -1905,7 +1908,9 @@ Genres
                 Canto a lo poeta::genre
                 Carranga::genre
                 Chacarera::genre
-                Chamamé::genre
+                Chamamé
+                    Chamamé::genre
+                    Chamamé tropical::genre
                 Chamarrita rioplatense::genre
                 Cueca::genre
                 Huayno
@@ -2054,7 +2059,9 @@ Genres
         Arabesque Rap::genre
         Bongo Flava::genre
         Boom Bap::genre
-        Bounce::genre
+        Bounce
+            Bounce::genre
+            Sissy Bounce::genre
         Chipmunk Soul::genre
         Chopped and Screwed::genre
         Christian Hip Hop::genre
@@ -3316,6 +3323,7 @@ Genres
                         Jiangnan sizhu::genre
                         Nanyin::genre
                     Taoist Ritual Music::genre
+                    Xibei feng::genre
                     Xinyao::genre
                     Zhongguo feng::genre
                 East Asian Classical Music
@@ -3375,6 +3383,7 @@ Genres
                         Tsugaru Shamisen::genre
                     Korean Folk Music
                         Korean Folk Music::genre
+                        Muak::genre
                         Pansori::genre
                         Pungmul::genre
                         Sanjo::genre
@@ -3429,6 +3438,7 @@ Genres
                             Gagok::genre
                     Korean Folk Music
                         Korean Folk Music::genre
+                        Muak::genre
                         Pansori::genre
                         Pungmul::genre
                         Sanjo::genre
@@ -3836,6 +3846,17 @@ Genres
                         Zeybek::genre
         Austronesian Music
             Austronesian Music::genre
+            Balinese Music
+                Balinese Music::genre
+                Balinese Gamelan
+                    Balinese Gamelan::genre
+                    Gamelan angklung::genre
+                    Gamelan gender wayang::genre
+                    Gamelan gong gede::genre
+                    Gamelan gong kebyar::genre
+                    Gamelan jegog::genre
+                    Gamelan semar pegulingan::genre
+                Kecak::genre
             Batak Music
                 Batak Music::genre
                 Gondang::genre
@@ -4191,6 +4212,7 @@ Genres
                 European Folk Music::genre
                 Alpine Folk Music
                     Alpine Folk Music::genre
+                    Canto degli Alpini::genre
                     Ländler::genre
                     Narodno zabavna glasba::genre
                     Naturjodel::genre
@@ -4315,6 +4337,7 @@ Genres
                 Istrian Folk Music::genre
                 Italian Folk Music
                     Italian Folk Music::genre
+                    Canto degli Alpini::genre
                     Canzone napoletana::genre
                     Liscio::genre
                     Sardinian Folk Music
@@ -4547,6 +4570,7 @@ Genres
                 Canzone d'autore::genre
                 Italian Folk Music
                     Italian Folk Music::genre
+                    Canto degli Alpini::genre
                     Canzone napoletana::genre
                     Liscio::genre
                     Sardinian Folk Music
@@ -4812,7 +4836,9 @@ Genres
                     Canto a lo poeta::genre
                     Carranga::genre
                     Chacarera::genre
-                    Chamamé::genre
+                    Chamamé
+                        Chamamé::genre
+                        Chamamé tropical::genre
                     Chamarrita rioplatense::genre
                     Cueca::genre
                     Huayno
@@ -5567,7 +5593,9 @@ Genres
             Carnaval cruceño::genre
             Carranga::genre
             Chacarera::genre
-            Chamamé::genre
+            Chamamé
+                Chamamé::genre
+                Chamamé tropical::genre
             Champeta::genre
             Chilean Music
                 Chilean Music::genre
@@ -5823,6 +5851,7 @@ Genres
                     Tsugaru Shamisen::genre
                 Korean Folk Music
                     Korean Folk Music::genre
+                    Muak::genre
                     Pansori::genre
                     Pungmul::genre
                     Sanjo::genre
@@ -5836,6 +5865,7 @@ Genres
                 European Folk Music::genre
                 Alpine Folk Music
                     Alpine Folk Music::genre
+                    Canto degli Alpini::genre
                     Ländler::genre
                     Narodno zabavna glasba::genre
                     Naturjodel::genre
@@ -5960,6 +5990,7 @@ Genres
                 Istrian Folk Music::genre
                 Italian Folk Music
                     Italian Folk Music::genre
+                    Canto degli Alpini::genre
                     Canzone napoletana::genre
                     Liscio::genre
                     Sardinian Folk Music
@@ -6094,7 +6125,9 @@ Genres
                 Canto a lo poeta::genre
                 Carranga::genre
                 Chacarera::genre
-                Chamamé::genre
+                Chamamé
+                    Chamamé::genre
+                    Chamamé tropical::genre
                 Chamarrita rioplatense::genre
                 Cueca::genre
                 Huayno
@@ -6927,6 +6960,7 @@ Scenes & Movements
         Urban Contemporary Gospel::genre
     Česká alternativní scéna::genre
     Český underground::genre
+    Chicago No Wave::genre
     Chicago School::genre
     Christian Hardcore::genre
     Clube da esquina::genre
@@ -7136,6 +7170,7 @@ Scenes & Movements
     Windmill Scene::genre
     Wizard Rock::genre
     Women's Music Movement::genre
+    Xibei feng::genre
     Yass::genre
     YTPMV
         YTPMV::genre
