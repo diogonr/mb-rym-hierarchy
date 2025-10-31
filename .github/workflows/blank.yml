@@ -2,9 +2,6 @@ name: Convert RYM Genre Hierarchy
 
 on:
   push:
-    paths:
-      - 'RateYourMusic Genre Hierarchy.txt'
-  workflow_dispatch:
 
 jobs:
   convert:
