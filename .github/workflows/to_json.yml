@@ -20,65 +20,76 @@ jobs:
           cat > convert_rym_to_json.py <<'EOF'
           import json
           import re
-          
+          from typing import List, Tuple
+      
           INPUT_PATH = "RateYourMusic Genre Hierarchy.txt"
           OUTPUT_PATH = "RateYourMusic Genre Hierarchy.json"
-          
+      
           SUFFIX_RE = re.compile(r"::.*$")
-          
+      
           def leading_spaces(s: str) -> int:
-              # Treat tabs as 4 spaces to keep levels consistent
+              # Treat tabs as 4 spaces
               s = s.replace("\t", "    ")
               return len(s) - len(s.lstrip(" "))
-          
+      
           def clean_name(raw: str) -> str:
               return SUFFIX_RE.sub("", raw.strip()).strip()
-          
-          def parse_lines(lines):
+      
+          def parse_lines(lines: List[str]):
               root = []
-              # Sentinel level -1 so the first real line (indent=0) never pops the root
-              stack: list[tuple[int, list]] = [(-1, root)]
-          
+              # Sentinel to avoid popping the root on indent=0
+              stack: List[Tuple[int, list]] = [(-1, root)]
+      
               for raw in lines:
                   if not raw.strip():
-                      continue  # skip blank
+                      continue
                   if raw.lstrip().startswith("#"):
-                      continue  # allow comments
-          
+                      continue
+      
                   indent = leading_spaces(raw)
                   name = clean_name(raw)
-          
+      
                   node = {"name": name, "children": []}
-          
-                  # Walk back up until the current indent is strictly greater than the top level
+      
+                  # Pop until parent indent < current indent
                   while stack and indent <= stack[-1][0]:
                       stack.pop()
-          
-                  # After popping, stack is guaranteed to have at least the sentinel
+      
                   parent_children = stack[-1][1]
                   parent_children.append(node)
-          
-                  # Push this node's children list with its indent
+      
+                  # Always push so subsequent deeper lines attach here
                   stack.append((indent, node["children"]))
-          
+      
               return root
-          
+      
+          def prune_empty_children(obj):
+              """Remove 'children' keys that are empty lists, recursively."""
+              if isinstance(obj, list):
+                  for item in obj:
+                      prune_empty_children(item)
+              elif isinstance(obj, dict):
+                  if "children" in obj:
+                      prune_empty_children(obj["children"])
+                      if not obj["children"]:
+                          obj.pop("children", None)
+      
           def main():
               with open(INPUT_PATH, encoding="utf-8") as f:
                   lines = f.readlines()
-          
+      
               tree = parse_lines(lines)
-          
+              prune_empty_children(tree)
+      
               with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
                   json.dump(tree, f, indent=2, ensure_ascii=False)
-          
+      
               print(f"Wrote {OUTPUT_PATH}")
-          
+      
           if __name__ == "__main__":
               main()
-              
           EOF
-
+      
           python3 convert_rym_to_json.py
 
       - name: Commit and push JSON output
