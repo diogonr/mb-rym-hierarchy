@@ -2,7 +2,6 @@ name: Convert RYM Genre Hierarchy
 
 on:
   push:
-  workflow_dispatch:
 
 jobs:
   convert:
